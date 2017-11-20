@@ -11,10 +11,10 @@ R = QQ[x,y];
 I = ideal (x^5*y, x^3*y^2,x^2*y^3,y^4)
 --decompose is not relevant to what we want! this gives the Minimal associated Primes! :) 
 decompose I
---Again not we want! :)
+--Again not what we want! :)
 primaryDecomposition I
 primaryDecomposition(I, Strategy => Monomial)
--- Using Prop 3.2 we obtain an irreducible decomposition ode thhe ideal
+-- Using Prop 3.2 we obtain an irreducible decomposition of the ideal
 intersect(ideal(y),ideal(x^5,y^2),ideal(x^3,y^3),ideal(x^2,y^4))
 
 
@@ -47,7 +47,7 @@ polarization = (I) ->(
 
 I=ideal(x^4,y^4,z^4,x^3*y^2*z,x*y^3*z^2,x^2*y*z^3)
 primaryDecomposition(I,Strategy=>Monomial)
-use R
+use R --  The ring R is the ring S~ in which we take the Stanley-Reisner ideal
 J=polarization(I)
 describe R
 res J
@@ -55,6 +55,19 @@ codim J
 use S
 res I
 codim I
+--------------------------------------------
+
+-- Chapter 4
+-- Example of a cellular resolution.
+
+restart
+S=QQ[a,b,c,d]
+I=ideal(a^2*b,a^2*d,a*b^2,a^2*c,a*d^2,b^2*d,b*d^2,b^2*c,a*c^2,c*d^2,b*c^2,c^2*d)
+J=polarization(I)
+res J
+res o2
+
+
 --------------------------------------------
 
 
@@ -69,11 +82,16 @@ I=ideal(x3*x4*x5*x6,x2*x4*x5*x6,x1*x4*x5*x6,x3*x4*x5*xv,x2*x4*x5*xv,x1*x3*x5*xv,
 resolute=res coker gens I
 resolute.dd
 
--- Some of the coefficients
+-- Some of the coefficients in the monomials of the matrices of this resolution have
+-- a coefficient that is 2. This means that the resolution cannot be obtained as the ceullar homology
+-- of a CW - complex.
 
 
 --Checking Wether an I deal is Strongly Generic: 
 L = flatten entries gens I
+exps=flatten apply(numgens I, i->exponents I_i)
+apply(rank source vars R,j->apply(#exps,i-> (exps_i)_j))
+
 S = subsets (L , 2) 
 for i from 0 to #S -1 do 
     (for j from 0 to #L-1 do 

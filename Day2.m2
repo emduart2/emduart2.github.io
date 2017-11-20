@@ -14,11 +14,11 @@ S=QQ[a,b,c,d]
 isBorel monomialIdeal(a^2,a*b,b^2)
 isBorel monomialIdeal(a^2,b^2)
 isBorel monomialIdeal(b^3)
---"borel" gives the smallest Borel-fixed ideal containing a given monomial ideal.
+--'borel' gives the smallest Borel-fixed ideal containing a given monomial ideal.
 borel monomialIdeal(b*c)
 borel monomialIdeal(a,c^3)
 
---We can compute generic initial ideals with the "GenericInitialIdeal" package:
+--We can compute generic initial ideals with the 'GenericInitialIdeal' package:
 needsPackage("GenericInitialIdeal")
 I = ideal(b^2,c*d)
 ginI = gin I
@@ -39,6 +39,7 @@ mygin I
 poincare I
 poincare ginI
 --Betti numbers and regularity:
+res coker gens I
 resI = res I
 resginI = res ginI
 betti resI
@@ -46,7 +47,7 @@ betti resginI
 regularity I
 regularity ginI
 
---With "lexgin", we can compute the generic initial ideal with respect to the lex-order:
+--With 'lexgin', we can compute the generic initial ideal with respect to the lex-order:
 lexginI = lexgin I
 poincare lexginI
 --Here the regularity goes up (this can already be seen from the fact that there is a degree 4 generator).
@@ -103,3 +104,10 @@ resI.dd
 resLeadSyzygiesI.dd
 -- compare the ranks of the modules in resI and resLeadSyzygiesI, also compare their matrices.
 
+installPackage("MonomialIdealResolutions.m2")
+input "MonomialIdealResolutions.m2"
+
+
+J=monomialIdeal(x1*x2*x4^4,x1*x2*x3*x4^2,x1*x3^6,x1*x2*x3^2,x2^6,x1*x2^2,x1^2)
+EKResolution J
+o83.dd
