@@ -18,18 +18,6 @@ primaryDecomposition(I, Strategy => Monomial)
 intersect(ideal(y),ideal(x^5,y^2),ideal(x^3,y^3),ideal(x^2,y^4))
 
 
---Checking Wether an I deal is Strongly Generic: 
-L = flatten entries gens I
-S = subsets (L , 2) 
-for i from 0 to #S -1 do 
-    (for j from 0 to #L-1 do 
-	(if exponents(lcm (S#i) > exponents L#j then )
-	) 
-    
-    ;
-
-
-
 -- Section 3.2 Examples in 3 variables
 -- We define the polarization function
 restart
@@ -55,6 +43,27 @@ codim J
 use S
 res I
 codim I
+
+--------------------------------------------
+
+--Checking whether an ideal is Strongly Generic: 
+
+IsStronglyGeneric = I ->(
+    L = flatten entries gens I;
+    exps=flatten apply(numgens I, i->exponents I_i);
+    S1 = apply(rank source vars ring I,j->apply(#exps,i-> (exps_i)_j));
+    S2=apply(#S1,i->delete(0,S1_i));
+    S3 = apply (#S2,i->unique(S2_i));
+    flatten S2 == flatten S3
+)  
+
+--test 2 examples of the book section 3.2 and 3.3:
+Q = QQ[x,y,z];
+J = ideal (x^4,y^4,z^4,x^3*y^2*z,x*y^3*z^2,x^2*y*z^3);
+IsStronglyGeneric(J)
+I' = ideal (x^2*z,x*y*z,y^2*z,x^3*y^5,x^4*y^4,x^5*y^3);
+IsStronglyGeneric(I')
+
 --------------------------------------------
 
 -- Chapter 4
@@ -85,22 +94,4 @@ resolute.dd
 -- Some of the coefficients in the monomials of the matrices of this resolution have
 -- a coefficient that is 2. This means that the resolution cannot be obtained as the ceullar homology
 -- of a CW - complex.
-
-
---Checking Wether an I deal is Strongly Generic: 
-L = flatten entries gens I
-exps=flatten apply(numgens I, i->exponents I_i)
-apply(rank source vars R,j->apply(#exps,i-> (exps_i)_j))
-
-S = subsets (L , 2) 
-for i from 0 to #S -1 do 
-    (for j from 0 to #L-1 do 
-	(if exponents(lcm (S#i) > exponents L#j then )
-	) 
-    
-    ;
-   
-
-
-
 
