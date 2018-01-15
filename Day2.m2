@@ -111,3 +111,8 @@ input "MonomialIdealResolutions.m2"
 J=monomialIdeal(x1*x2*x4^4,x1*x2*x3*x4^2,x1*x3^6,x1*x2*x3^2,x2^6,x1*x2^2,x1^2)
 EKResolution J
 o83.dd
+
+
+restart
+
+
