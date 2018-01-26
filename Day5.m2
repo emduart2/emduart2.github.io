@@ -7,6 +7,15 @@
 -- We can find it by either using the ideal of the points,
 -- or the points themselves.
 
+-- Examples of a module that has the given hilbert function after proposition 2.7
+
+restart
+S=QQ[x0,x1,x2]
+
+I=ideal(x0^2,x1^2,x2^2,x0*x1*x2)
+
+betti res I
+
 restart
 S=QQ[x,y,z,w]
 I=ideal(x,y,z) -- V(I)={[0;0;0;1]}
