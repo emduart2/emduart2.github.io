@@ -84,7 +84,7 @@ R=QQ[x,y,z,MonomialOrder=>Lex]
 p  = x^2+1/2*y^2*z-z-1
 f1 = x^2+z^2-1
 f2 = x^2+y^2+(z-1)^2-4
-
+r=1/2*y^2*z-z-z^2
 leadTerm p
 leadTerm f1
 leadTerm f2
@@ -92,3 +92,4 @@ f1-f2
 leadTerm(f1-f2)
 leadTerm(ideal(f1,f2))
 p%ideal(f1,f2)
+f1+r
