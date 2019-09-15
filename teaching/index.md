@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-# Teaching
+## Teaching
 
 * For the 2018 Summer Semester I was in charge of the masters seminar in Algebra and Geometry
 at OVGU Magdeburg.
