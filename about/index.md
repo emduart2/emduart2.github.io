@@ -12,11 +12,11 @@ title: Research
    
 1. Global projections of the soil microbiome. [Carlos Guerra](https://scholar.google.pt/citations?user=0stRyvUAAAAJ&hl=en).Submitted.
 
-1. Discrete statistical models with rational MLE. Joint with Orlando Marigliano and Bernd Sturmfels. Submitted.
+1. [Discrete statistical models with rational MLE](https://arxiv.org/abs/1903.06110). Joint with Orlando Marigliano and Bernd Sturmfels. Submitted.
 
-1. Equations defining probability tree models. Joint with Christiane Gorgen. 
+1. [Equations defining probability tree models](https://www.sciencedirect.com/science/article/abs/pii/S0747717119300379). Joint with Christiane Gorgen. 
 
-1. Implicitization of tensor product surfaces in the presence of a generic set of basepoints.
+1. [Implicitization of tensor product surfaces in the presence of a generic set of basepoints](https://arxiv.org/abs/1610.03820).
 
 1. Polynomial GCDs by syzygies. Joint with Daniel Lichtblau.
 
