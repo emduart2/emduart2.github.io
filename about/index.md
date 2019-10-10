@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-1. [Groebner bases for staged trees](https://arxiv.org/abs/1910.02721). Joint with Lamprini Ananiadi. 
+1. [Groebner bases for staged trees](https://arxiv.org/abs/1910.02721). Joint with Lamprini Ananiadi. Submitted.
 
 1. [Implicitization of tensor product surfaces via virtual projective resolutions](https://arxiv.org/abs/1908.02086).
    Joint with [Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/). Submitted.
