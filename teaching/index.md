@@ -5,6 +5,8 @@ title: Teaching
 
 # Teaching
 
+* Winter semester at MPI : [Seven Lectures in Algebraic Statistics](sevenLectures20019.md)
+
 * For the 2018 Summer Semester I was in charge of the masters seminar in Algebra and Geometry
 at OVGU Magdeburg.
 
