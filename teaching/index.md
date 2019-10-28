@@ -7,12 +7,14 @@ title: Teaching
 The goal of the Seven Lectures in Algebraic Statistics is to give a practical introduction to several topics in Algebraic Statistics. No previous knowledge of statistics will be assumed. Familiarity with algebra at the level of Cox, Little, O’Shea’s book “Ideals, varieties, and algorithms” is a plus. The lecture will be 60 minutes long and be followed by a 30 minute practical session in R or Macaulay2.
 
 ## 21.10.2019 - Lecture 1  - Introduction
-Key words: Parametric statistical model, exponential families, toric varieties. [R code.]({{ site.url }}/assets/SevenLectures2019/introToR.R) [Macaulay2 code.]({{ site.url }}/assets/SevenLectures2019/introToM2.m2)
+Key words: Parametric statistical model, exponential families, toric varieties. This lecture is mainly based on Chapter 6, Sections 1 and 2 from Sullivant's book "Algebraic Statistics". [Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture1.pdf)[R code.]({{ site.url }}/assets/SevenLectures2019/introToR.R) [Macaulay2 code.]({{ site.url }}/assets/SevenLectures2019/introToM2.m2)
 
 <!---Introduction to basic topics in probability and statistics. Examples of parametric statistical models
 and connections to toric varieties.--->
 
-## 28.10.2019 - Lecture 2  - Fisher's exact test for discrete exponential families 
+## 28.10.2019 - Lecture 2  - Fisher's exact test for discrete exponential families
+Key words: Hypothesis testing, Fisher's exact test, Markov basis, contingency tables. This lecture is based on Chapter 1 Section 1
+from "Lectures in Algebraic Statistics" and Chapter 9 Section 1 from Sullivant's book "Algebraic Statistics".
 <!---We discuss how to perform Fisher's exact test and the Metropolis-Hastings algorithms for sampling
 for discrete exponential families. --->
 
