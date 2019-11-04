@@ -15,10 +15,13 @@ and connections to toric varieties.--->
 ## 28.10.2019 - Lecture 2  - Fisher's exact test for discrete exponential families
 Key words: Hypothesis testing, Fisher's exact test, Markov basis, contingency tables. This lecture is based on Chapter 1 Section 1
 from "Lectures in Algebraic Statistics" and Chapter 9 Section 1 from Sullivant's book "Algebraic Statistics".
+[Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture2.pdf)
 <!---We discuss how to perform Fisher's exact test and the Metropolis-Hastings algorithms for sampling
 for discrete exponential families. --->
 
-## 04.11.2019 - Lecture 3 - Conditional independence models 
+## 04.11.2019 - Lecture 3 - Conditional independence models
+We will finish the overview of Fisher's exact test and connection to toric ideals.
+Key words: Conditional independence statements, CI models, primary decomposition, axioms for conditional independence.
 <!--- Definition of conditional independence models and connections to primary decomposition. --->
 
 ## 11.11.2019 - Lecture 4 - Maximum Likelihood Estimation and Geometry
