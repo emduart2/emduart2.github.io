@@ -22,7 +22,8 @@ for discrete exponential families. --->
 ## 04.11.2019 - Lecture 3 - Conditional independence models
 We will finish the overview of Fisher's exact test and connection to toric ideals.
 Key words: Conditional independence statements, CI models, primary decomposition, axioms for conditional independence.
-<!--- Definition of conditional independence models and connections to primary decomposition. --->
+[Macaulay2 code.]({{ site.url }}/assets/SevenLectures2019/introToM2.m2).
+[Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture3.pdf). [Exercise Sheet.]({{ site.url }}/assets/SevenLectures2019/problems1.pdf)
 
 ## 11.11.2019 - Lecture 4 - Maximum Likelihood Estimation and Geometry
 <!---Study maximum likelihood estimation with an algebraic geometric approach. --->
