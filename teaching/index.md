@@ -26,15 +26,18 @@ Key words: Conditional independence statements, CI models, primary decomposition
 [Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture3.pdf). [Exercise Sheet.]({{ site.url }}/assets/SevenLectures2019/problems1.pdf)
 
 ## 11.11.2019 - Lecture 4 - Maximum Likelihood Estimation and Geometry
+Key words: maximum likelihood estimation, maximum likelihood degree, iterative proportional scaling.  [Lecture Notes.]({{ site.url }}/assets/SevenLectures2019/Lecture4.pdf)
 <!---Study maximum likelihood estimation with an algebraic geometric approach. --->
+
+How to infer causal relations between observed variables? One path we can take is to try to find a directed acyclic graph (DAG) that describes the causal relations between the variables in our data. In this three lectures we will see an example of this statistical approach for vectors of Gaussian random variables. We will study Gaussian graphical models, the PC-algorithm and highlight the connections to algebra throughout this study.
 
 ## 18.11.2019 - Lecture 5 - Graphical Models
 <!--- TBA --->
 
-## 25.11.2019 - Lecture 6 - Causality I
+## 02.12.2019 - Lecture 6 - Causality I
 
 
-## 02.12.2019 - Lecture 7 - Causality II
+## 09.12.2019 - Lecture 7 - Causality II
 
 ## March 30 to April 3rd  2020 - [Spring School on Mathematical Statistics](https://www.mis.mpg.de/calendar/conferences/2020/ssms2020.html)
 
