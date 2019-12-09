@@ -37,9 +37,12 @@ How to infer causal relations between observed variables? One path we can take i
 <!--- TBA --->
 
 ## 02.12.2019 - Lecture 6 - Causality I
+Key words: local Markov property, global Markov property, d-separation, Markov equivalence
+ [Lecture Notes.]({{ site.url }}/assets/SevenLectures2019/Lecture5.pdf)
 
 
 ## 09.12.2019 - Lecture 7 - Causality II
+Key words: Learning a DAG, PC-algorithm, faithfulness assumption, algebraic hypersurface, singularities.
 
 ## March 30 to April 3rd  2020 - [Spring School on Mathematical Statistics](https://www.mis.mpg.de/calendar/conferences/2020/ssms2020.html)
 
