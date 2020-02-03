@@ -1,7 +1,7 @@
 
 -----
 layout: default
-title: "Fall 2019"
+title: Fall 2019
 permalink: /teaching/
 ----
 

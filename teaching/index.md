@@ -2,49 +2,69 @@
 layout: default
 title: Teaching
 ---
-# Seven Lectures in Algebraic Statistics
+# Proseminar in Algebra and Geometry - Summer 2020
 
-The goal of the Seven Lectures in Algebraic Statistics is to give a practical introduction to several topics in Algebraic Statistics. No previous knowledge of statistics will be assumed. Familiarity with algebra at the level of Cox, Little, O’Shea’s book “Ideals, varieties, and algorithms” is a plus. The lecture will be 60 minutes long and be followed by a 30 minute practical session in R or Macaulay2.
+The goal of the proseminar is that you gain experience learning math independently and are also able to present
+what you learn to the audience.
+If you are interested in giving any of these lectures please email me. Dates that start with and asterisk are already assigned,
+choose your topic from the ones that do not have an asterisk.
 
-## 21.10.2019 - Lecture 1  - Introduction
-Key words: Parametric statistical model, exponential families, toric varieties. This lecture is mainly based on Chapter 6, Sections 1 and 2 from Sullivant's book "Algebraic Statistics". [Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture1.pdf)[R code.]({{ site.url }}/assets/SevenLectures2019/introToR.R) [Macaulay2 code.]({{ site.url }}/assets/SevenLectures2019/introToM2.m2)
+Each lecture is 70 minutes. It is mandatory that you meet with me at least one week before you give your lecture. Attendence to all lectures is mandatory.
+You can give your lecture in English or German.
 
-<!---Introduction to basic topics in probability and statistics. Examples of parametric statistical models
-and connections to toric varieties.--->
+The calendar for the Summer semester is:
 
-## 28.10.2019 - Lecture 2  - Fisher's exact test for discrete exponential families
-Key words: Hypothesis testing, Fisher's exact test, Markov basis, contingency tables. This lecture is based on Chapter 1 Section 1
-from "Lectures in Algebraic Statistics" and Chapter 9 Section 1 from Sullivant's book "Algebraic Statistics".
-[Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture2.pdf)
-<!---We discuss how to perform Fisher's exact test and the Metropolis-Hastings algorithms for sampling
-for discrete exponential families. --->
+## 09.04 0-- The resultant of two bivariate polynomials
 
-## 04.11.2019 - Lecture 3 - Conditional independence models
-We will finish the overview of Fisher's exact test and connection to toric ideals.
-Key words: Conditional independence statements, CI models, primary decomposition, axioms for conditional independence.
-[Macaulay2 code.]({{ site.url }}/assets/SevenLectures2019/introToM2.m2).
-[Lecture notes available here.]({{ site.url }}/assets/SevenLectures2019/Lecture3.pdf). [Exercise Sheet.]({{ site.url }}/assets/SevenLectures2019/problems1.pdf)
+In linear algebra we can use
+a 2x2 determinant to know if a system of 2 equations in the variables x,y has a common solution.
+What if we want to know if two polynomials in the variables x,y have a common solution? spolier alert: We use the resultant.
+Section 5, Chapter 3 from "Ideals varieties and algorithms". Cox, Little, O'shea.
 
-## 11.11.2019 - Lecture 4 - Maximum Likelihood Estimation and Geometry
-Key words: maximum likelihood estimation, maximum likelihood degree, iterative proportional scaling.  [Lecture Notes.]({{ site.url }}/assets/SevenLectures2019/Lecture4.pdf)
-<!---Study maximum likelihood estimation with an algebraic geometric approach. --->
-
-## Causality
-
-How to infer causal relations between observed variables? One path we can take is to try to find a directed acyclic graph (DAG) that describes the causal relations between the variables in our data. In this three lectures we will see an example of this statistical approach for vectors of Gaussian random variables. We will study Gaussian graphical models, the PC-algorithm and highlight the connections to algebra throughout this study.
-
-## 18.11.2019 - Lecture 5 - Graphical Models
-<!--- TBA --->
-
-## 02.12.2019 - Lecture 6 - Causality I
-Key words: local Markov property, global Markov property, d-separation, Markov equivalence
- [Lecture Notes.]({{ site.url }}/assets/SevenLectures2019/Lecture5.pdf)
+## 16.04 1-- Fundamental theorem of symmetric polynomials in  two variables
+A polynomial in two variables x,y is symmetric whenever you interchange the role of x and y you get the polynomials that
+you start with. e.g. x + y is symmetric but x+2y is not. How do we describe the set of all symmetric polynomials in two variables?
 
 
-## 09.12.2019 - Lecture 7 - Causality II
-Key words: Learning a DAG, PC-algorithm, faithfulness assumption, algebraic hypersurface, singularities.
+## 23.04 2-- Rigidity of 2-dimensional grids
+A framework made of bars and joints is deformable if you allow the angle where two bars meet to change. A framework consisting of one triangle is rigid
+while one consisisting of a square is not. How can you decide if a framework that is a grid of squares is rigid?
+[Section 2 Graphs and Grids, 2.1-2.4 ](https://users.wpi.edu/~bservat/umap.pdf)
 
-## March 30 to April 3rd  2020 - [Spring School on Mathematical Statistics](https://www.mis.mpg.de/calendar/conferences/2020/ssms2020.html)
+## 30.04 3-- Euler's formula for convex polyhedra and classification of platonic solids
+Euler's formula relates the number of vertices, edges and faces of a polyhedra. We can also use it to prove
+there exist only five platonic solids.
+
+## *07.05 4-- Quadratic forms in two variables and diagonalization
+What does diagonalization of matrices have to do with polynomials of degree two?
+[Motivation](http://batty.mullikin.org/quadratic.pdf) [Extra](https://personalpages.manchester.ac.uk/staff/Charles.Eaton/Section7.pdf)
+
+## *14.05 5-- The caterogy of sets and discrete categories (if you like programming)
+Category theory is an abstraction of many principles that govern mathematics. It could also
+be a useful programming approach.
+
+## 21.05 6-- Coloring of graphs, the chromatic polynomial and the four coloring theorem
+Are you able to color the vertices of any planar graph with four colors in such a way that no two adjacent vertices have
+the same color?
+[Four color theorem](https://en.wikipedia.org/wiki/Four_color_theorem)
+
+## Duality and tensor products "Lineare Algebra" Gerd Fischer
+For the last part of the seminar the lectures are based off the book by Fischer.
+
+## 28.05 7 -- 6.1 Dualr&auml;ume
+         
+## 04.06 8 -- 6.2 Dualit&auml;t und Skalarprodukte
+
+## 11.06 9 -- 6.3 Tensorprodukte
+
+## 18.06 10 -- 6.3 Symmetrisch und &auml;ussere Produkt and exterior product
+
+## 25.06 ---  The session is cancelled this day
+
+## 02.07 11-- 6.4 Multilineare Algebra
+ 
+
+
 
 
 
