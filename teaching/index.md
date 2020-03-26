@@ -65,7 +65,7 @@ For the last part of the seminar the lectures are based off the book by Fischer.
  
 
 
-
+ [NASO.]({{ site.url }}/assets/DuarteEliana_NASO_20200325.pdf)
 
 
 
