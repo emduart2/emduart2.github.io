@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poster session MathCore"
+title: "Seven Lectures in Algebraic Statistics"
 date: 2019-10-15
 ---
 
