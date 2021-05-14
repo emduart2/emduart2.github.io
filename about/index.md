@@ -5,7 +5,9 @@ title: Research
 
 # Research
 
-1. [Representation and Learning of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
+1. [A new characterization of discrete decomposable models](https://arxiv.org/abs/2105.05907). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
+
+1. [Representation of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
 
 1. [Algebraic geometry of discrete interventional models](https://arxiv.org/abs/2012.03593). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
 
