@@ -5,6 +5,8 @@ title: Research
 
 # Research
 
+1. [Families of polytopes with rational linear precision in higher dimensions](https://arxiv.org/pdf/2109.08151.pdf) Joint with Isobel Davies, Irem Portakal and Stefana Miruna Sorea.
+
 1. [A new characterization of discrete decomposable models](https://arxiv.org/abs/2105.05907). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
 
 1. [Representation of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
