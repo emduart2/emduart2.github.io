@@ -22,17 +22,17 @@ title: Research
 and [Nico Eisenhauer](https://www.idiv.de/en/groups_and_people/employees/details/eshow/eisenhauer_nico.html). Guerra, C.A., Delgado‐Baquerizo, M., Duarte, E., Marigliano, O., Görgen, C., Maestre, F.T. and Eisenhauer, N., 2021. Global Ecology and Biogeography, 30(5), pp.987-999.
 
 1. [Discrete statistical models with rational MLE](https://arxiv.org/abs/1903.06110). Joint with [Orlando Marigliano](https://orlandomarigliano.wordpress.com)
-and [Bernd Sturmfels](https://math.berkeley.edu/~bernd/). To appear in Bernoulli.
+and [Bernd Sturmfels](https://math.berkeley.edu/~bernd/). Duarte, E., Marigliano, O. and Sturmfels, B., 2021. Bernoulli, 27(1), pp.135-154.
 
-1. [Equations defining probability tree models](https://www.sciencedirect.com/science/article/abs/pii/S0747717119300379). Joint with [Christiane Gorgen](https://sites.google.com/view/goergen). 
+1. [Equations defining probability tree models](https://www.sciencedirect.com/science/article/abs/pii/S0747717119300379). Joint with [Christiane Gorgen](https://sites.google.com/view/goergen). Duarte, E. and Görgen, C., 2020. Journal of Symbolic Computation, 99, pp.127-146.
 
-1. [Implicitization of tensor product surfaces in the presence of a generic set of basepoints](https://arxiv.org/abs/1610.03820).
+1. [Implicitization of tensor product surfaces in the presence of a generic set of basepoints](https://arxiv.org/abs/1610.03820). Duarte, E., 2017. Journal of Algebra and Its Applications, 16(10), p.1750189.
 
-1. [Polynomial GCDs by syzygies](https://ieeexplore.ieee.org/document/7829593). Joint with [Daniel Lichtblau](https://community.wolfram.com/web/danl).
+1. [Polynomial GCDs by syzygies](https://ieeexplore.ieee.org/document/7829593). Joint with [Daniel Lichtblau](https://community.wolfram.com/web/danl). 2016 18th Interna- tional Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC), Timisoara, Romania. 2016, pp. 53-59.
 
-1. [Tensor product surfaces and linear syzygies](https://arxiv.org/abs/1402.6751). Joint with [Hal Schenck](https://orion.math.iastate.edu/hschenck/).
+1. [Tensor product surfaces and linear syzygies](https://arxiv.org/abs/1402.6751). Joint with [Hal Schenck](https://orion.math.iastate.edu/hschenck/). Proceedings of the American Mathematical Society 144.1 (2016): 65-72. (Open Access)
 
-1. [Stability of quasicrystal frameworks in 2D and 3D](http://new.math.uiuc.edu/quasistable/DuarteFrancisSeville1may13.pdf). Joint with [George K. Francis](http://new.math.uiuc.edu).
+1. [Stability of quasicrystal frameworks in 2D and 3D](http://new.math.uiuc.edu/quasistable/DuarteFrancisSeville1may13.pdf). Joint with [George K. Francis](http://new.math.uiuc.edu). Proceedings of the First Conference Transformables, Seville, Spain, 2013.
 
 ## Video Lectures
 [Algebraic Statistics Seminar Online](https://sites.google.com/view/algstatsonline/past-talks-and-recordings?authuser=0#h.cst9zjs53ai8)
