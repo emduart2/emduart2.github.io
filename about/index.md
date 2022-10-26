@@ -5,6 +5,8 @@ title: Research
 
 # Research
 
+1.  [Context-specific decomposable models](https://arxiv.org/pdf/2210.11521.pdf) Joint with Yulia Alexander and Julian Vill.
+
 1. [Families of polytopes with rational linear precision in higher dimensions](https://arxiv.org/pdf/2109.08151.pdf) Joint with Isobel Davies, Irem Portakal and Stefana Miruna Sorea. To appear in Foundations of Computational Mathematics. 
 
 1. [A new characterization of discrete decomposable models](https://arxiv.org/abs/2105.05907). Joint with [Liam Solus](https://people.kth.se/~solus/). To appear in Proceedings of the AMS.
