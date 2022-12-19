@@ -1,6 +1,6 @@
 layout: post
 title: "3-Way Interaction Seminar"
-date: 2022-12-20
+date: 2022-12-21
 ---
 ## A research seminar in Algebraic Statistics
 
