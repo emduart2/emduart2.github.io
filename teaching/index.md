@@ -3,7 +3,7 @@ layout: default
 title: Teaching and Mentoring
 ---
 # Current students
-[Maximilian Wiesmann][https://maximilianwiesmann.wordpress.com] since December 2022.
+[Maximilian Wiesmann](https://maximilianwiesmann.wordpress.com) since December 2022.
 
 # Mentoring
 During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be
