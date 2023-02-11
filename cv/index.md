@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Eliana Duarte
-2023 - Research group
+2023 - Research group in Algebraic Statistics
 
 ## Recent Activities
 
