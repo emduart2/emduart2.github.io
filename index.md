@@ -4,7 +4,8 @@ title: Eliana Duarte
 ---
 
 # Eliana Duarte
-![Eliana Duarte](/assets/Eliana.jpg "Eliana")
+<img src="/assets/Eliana.jpg" alt="Eliana" align="left" style="width:350px;height:200px;">
+![Eliana Duarte](/assets/Eliana.jpg "Eliana"){}
 Since January 2023 I will hold a joint appointment as Junior Researcher at [Centro de Matem&aacutetica Universidade do Porto](https://www.cmup.pt) in Portugal with funding provided by
     the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and 
     lead the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
