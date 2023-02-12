@@ -7,7 +7,7 @@ title: Teaching and Mentoring
 
 # Mentoring
 During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be
-be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank R&Ootger.
+be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank Rötger.
 # Teaching Experience
 
 1. Statistical Inference for Master Students - Main Lecturer  Universidade do Porto, Winter Semester 2021 
