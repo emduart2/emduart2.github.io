@@ -5,7 +5,8 @@ title: Eliana Duarte
 
 # Eliana Duarte
 <img src="/assets/Eliana.jpg" alt="Eliana" align="left" style="width:350px;height:200px;">
-Since January 2023 I will hold a joint appointment as Junior Researcher at [Centro de Matem&aacutetica Universidade do Porto](https://www.cmup.pt) in Portugal with funding provided by
+
+Since January 2023 I will hold a joint appointment as Junior Researcher at [Centro de Matemátetica Universidade do Porto](https://www.cmup.pt) in Portugal with funding provided by
     the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and 
     lead the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
     Leipzig. My research focuses on solving statistical problems using algebra, geometry and combinatorics.
@@ -15,8 +16,8 @@ Since January 2023 I will hold a joint appointment as Junior Researcher at [Cent
 
 ## Latest News
 * I was selected as a top 10% reviewer for AISTATS' 23!
-* The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Berlin on February 20th. The speaker is
-[Paul Breiding](https://pbrdng.github.io/index.html)
+* The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Berlin on April 24th. The speaker is
+[Lior Pachter](https://pachterlab.github.io/biography.html)
 
 ## Checkout
 * [TensorVoices](https://tensorvoices.de) a five episode podcast of conversations about tensors with enthusiastic guests. Hosted by 
