@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "ReadingGroupAstat"
-date: 2019-05-27
+date: 2023-03-15
 ---
 
-* *
+* 
 Format:
 
 Dates:
