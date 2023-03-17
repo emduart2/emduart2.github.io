@@ -20,7 +20,7 @@ Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
 which they prepare together. We meet at 2pm on Thursdays. Starting April 6th
 
 ### Dates:
-1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Senda - 
+1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Sendra - 
  Ch.3 Algebra Primer, Ch.4. Conditional Independence, Ch.5 Statistics Primer
 1. April 13th, 2023. Exponential Families a.k.a Toric Varieties. Leo Kayser, Alexander Kreiss - 
 Ch. 6 Exponential families a.k.a toric varieties

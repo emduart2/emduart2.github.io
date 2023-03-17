@@ -5,6 +5,8 @@ title: Research
 
 # Research
 
+1. [Toric Fiber Products in Geometric Modeling]() Joint with [Maximilian Wiessman](https://maximilianwiesmann.github.io/activities/) and [Ben Hollering](https://sites.google.com/view/benhollering)
+
 1.  [Context-specific decomposable models](https://arxiv.org/pdf/2210.11521.pdf) Joint with Yulia Alexander and Julian Vill.
 
 1. [Families of polytopes with rational linear precision in higher dimensions](https://arxiv.org/pdf/2109.08151.pdf) Joint with Isobel Davies, Irem Portakal and Stefana Miruna Sorea. To appear in Foundations of Computational Mathematics. 
