@@ -18,6 +18,7 @@ at IMSI. Participants in this reading group will be set up for an enriched exper
 ## Format:
 Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
 which they prepare together. We meet at 2pm on Thursdays. Starting April 6th
+
 ## Dates:
 1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Senda - 
  Ch.3 Algebra Primer, Ch.4. Conditional Independence, Ch.5 Statistics Primer
@@ -27,6 +28,7 @@ Ch. 6 Exponential families a.k.a toric varieties
 Ch.7 Likelihood Inference, Likelihood geometry, ML degree#
 1. May 4th - Discrete Graphical Models. Tabea Krause, Lisa Seccia. Ch.13. Graphical Models
 1. May 11th - Exercises - Questions- Clarification
+
 ## Fundamentals: 
 From Sullivant's Book
 - Ch.3 Algebra Primer ,Ch.4. Conditional Independence ,Ch.5 Statistics Primer
@@ -35,6 +37,7 @@ From Sullivant's Book
 - Ch.13 Graphical Models - Discrete
 -  Exercises, questions clarification.
 - Ch.13 Graphical Models - Gaussian
+
 ## More advanced topics
 - Ch.15. Phylogenetics
 - Ch.14. Hidden Variables, tensors, Mixture models
