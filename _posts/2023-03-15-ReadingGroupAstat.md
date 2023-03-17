@@ -4,7 +4,7 @@ title: "Reading Group In Algebraic Statistics"
 date: 2023-03-15
 ---
 Organized by [Eliana Duarte](https://emduart2.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering)
-## Goals:
+### Goals:
 Algebraic Statistics  studies and solves of problems in Statistical Data Analysis using 
 tools from Algebraic Geometry, Commutative Algebra, Discrete Geometry and, numerical and symbolic computation.
 This is an active and exciting field of research that started almost three decades ago.
@@ -15,11 +15,11 @@ In the future months there will be many activities around Algebraic Statistics, 
 the [3-Way-Interaction-Seminar](https://3-way-interaction.de), several Minisymposia at the [SIAM AG23 Conference](https://www.siam.org/conferences/cm/conference/ag23), and finally
 the semester long program [Algebraic Statistics and Our Changing World](https://www.imsi.institute/activities/algebraic-statistics-and-our-changing-world/)
 at IMSI. Participants in this reading group will be set up for an enriched experience in attending any of the aforementioned events.
-## Format:
+### Format:
 Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
 which they prepare together. We meet at 2pm on Thursdays. Starting April 6th
 
-## Dates:
+### Dates:
 1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Senda - 
  Ch.3 Algebra Primer, Ch.4. Conditional Independence, Ch.5 Statistics Primer
 1. April 13th, 2023. Exponential Families a.k.a Toric Varieties. Leo Kayser, Alexander Kreiss - 
@@ -29,8 +29,8 @@ Ch.7 Likelihood Inference, Likelihood geometry, ML degree#
 1. May 4th - Discrete Graphical Models. Tabea Krause, Lisa Seccia. Ch.13. Graphical Models
 1. May 11th - Exercises - Questions- Clarification
 
-## Fundamentals: 
-From Sullivant's Book
+### Fundamentals: 
+From [Sullivant's Book]( https://bookstore.ams.org/view?ProductCode=GSM/194) available in pdf or hard copy at the MPI library.
 - Ch.3 Algebra Primer ,Ch.4. Conditional Independence ,Ch.5 Statistics Primer
 - Ch.6 Exponential Families, a.k.a Toric Varieties
 - Ch.7 Likelihood Inference, Likelihood geometry, ML degree
@@ -38,7 +38,7 @@ From Sullivant's Book
 -  Exercises, questions clarification.
 - Ch.13 Graphical Models - Gaussian
 
-## More advanced topics
+### More advanced topics
 - Ch.15. Phylogenetics
 - Ch.14. Hidden Variables, tensors, Mixture models
 - [Nonparametric Statistics](https://link.springer.com/article/10.1007/s00454-018-0024-y)
