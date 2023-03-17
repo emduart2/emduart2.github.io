@@ -3,7 +3,7 @@ layout: post
 title: "Reading Group In Algebraic Statistics"
 date: 2023-03-15
 ---
-
+Organized by [Eliana Duarte](https://emduart2.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering)
 ## Goals:
 Algebraic Statistics  studies and solves of problems in Statistical Data Analysis using 
 tools from Algebraic Geometry, Commutative Algebra, Discrete Geometry and, numerical and symbolic computation.
