@@ -6,13 +6,13 @@ title: Eliana Duarte
 # Eliana Duarte
 <img src="/assets/Eliana.jpg" alt="Eliana" align="left" style="width:350px;height:200px;">
 
-    Since January 2023 I will hold a joint appointment as Junior Researcher at [Centro de Matemática Universidade do Porto](https://www.cmup.pt) in Portugal with funding provided by
-    the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and 
-    lead the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
-    Leipzig. My research focuses on solving statistical problems using algebra, geometry and combinatorics.
-    Earlier, I was a postdoctoral researcher in the research training group[MathCore](https://www.mathcore.ovgu.de) at Otto-von-Guericke Universit&aumlt Magdeburg
-    and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") at Max-Planck-Institute for Mathematics in the Sciences in Leipzig. In May 2017 I obtained my PhD at University of Illinois Urbana - Champaign with
-    [Hal Schenck](http://webhome.auburn.edu/~hks0015/)
+Since January 2023 I will hold a joint appointment as Junior Researcher at [Centro de Matemática Universidade do Porto](https://www.cmup.pt) in Portugal with funding provided by
+the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and 
+lead the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
+Leipzig. My research focuses on solving statistical problems using algebra, geometry and combinatorics.
+Earlier, I was a postdoctoral researcher in the research training group[MathCore](https://www.mathcore.ovgu.de) at Otto-von-Guericke Universit&aumlt Magdeburg
+and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") at Max-Planck-Institute for Mathematics in the Sciences in Leipzig. In May 2017 I obtained my PhD at University of Illinois Urbana - Champaign with
+[Hal Schenck](http://webhome.auburn.edu/~hks0015/)
 
 ## Latest News
 * Checkout our new preprint [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754)
