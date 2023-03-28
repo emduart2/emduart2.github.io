@@ -13,7 +13,9 @@ Earlier, I was a postdoctoral researcher in the research training group[MathCore
 and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") at Max-Planck-Institute for Mathematics in the Sciences in Leipzig. In May 2017 I obtained my PhD at University of Illinois Urbana - Champaign with
 [Hal Schenck](http://webhome.auburn.edu/~hks0015/)
 
-# Latest News
+## Latest News
+* The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will start on April 6th at 2pm at MPI-MIS. The first lectures will be Algebra and Statistics primers.
+
 * Checkout our new preprint [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754)
 
 * I was selected as a top 10% reviewer for AISTATS' 23!
@@ -21,7 +23,7 @@ and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") a
 * The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Leipzig at 2pm on April 24th. The speaker is
 [Lior Pachter](https://pachterlab.github.io/biography.html)
 
-# Checkout
+## Checkout
 * [TensorVoices](https://tensorvoices.de) a five episode podcast of conversations about tensors with enthusiastic guests. Hosted by 
     [Thomas Kahle](https://thomas-kahle.de) and me.
 
