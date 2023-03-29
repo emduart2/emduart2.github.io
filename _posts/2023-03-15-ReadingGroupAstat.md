@@ -17,7 +17,7 @@ the semester long program [Algebraic Statistics and Our Changing World](https://
 at IMSI. Participants in this reading group will be set up for an enriched experience in attending any of the aforementioned events.
 ### Format:
 Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
-which they prepare together. We meet at 2pm on Thursdays. Starting April 6th
+which they prepare together. We meet at 1:30pm on Thursdays. Starting April 6th
 
 ### Dates:
 1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Sendra - 

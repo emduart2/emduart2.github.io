@@ -14,7 +14,7 @@ and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") a
 [Hal Schenck](http://webhome.auburn.edu/~hks0015/)
 
 ## Latest News
-* The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will start on April 6th at 2pm at MPI-MIS. The first lectures will be Algebra and Statistics primers.
+* The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will start on April 6th at 1:30pm at MPI-MIS. The first lectures will be Algebra and Statistics primers.
 
 * Checkout our new preprint [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754)
 
