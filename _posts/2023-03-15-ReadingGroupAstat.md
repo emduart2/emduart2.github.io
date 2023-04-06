@@ -20,14 +20,14 @@ Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
 which they prepare together. We meet at 1:30pm on Thursdays. Starting April 6th
 
 ### Dates:
-1. April 6th, 2023. Algebra and Statistics Primer.  Karel Devriendt, Javier Sendra - 
+1. April 6th, 2023. MPI-MIS. Room: G3-10. Algebra and Statistics Primer.  Karel Devriendt, Javier Sendra - 
  Ch.3 Algebra Primer, Ch.4. Conditional Independence, Ch.5 Statistics Primer
-1. April 13th, 2023. Exponential Families a.k.a Toric Varieties. Leo Kayser, Alexander Kreiss - 
+1. April 13th, 2023. MPI-MIS. Room: G3-10. Exponential Families a.k.a Toric Varieties. Leo Kayser, Alexander Kreiss - 
 Ch. 6 Exponential families a.k.a toric varieties
-1. April 20th - Maximum Likelihood Geometry. Max Wiesmann, Dmitrii Pavlov - 
+1. April 20th, 2023. E1 05 (Leibniz-Saal). Maximum Likelihood Geometry. Max Wiesmann, Dmitrii Pavlov - 
 Ch.7 Likelihood Inference, Likelihood geometry, ML degree#
-1. May 4th - Discrete Graphical Models. Tabea Krause, Lisa Seccia. Ch.13. Graphical Models
-1. May 11th - Exercises - Questions- Clarification
+1. May 4th, 2023. MPI-MIS. Room: G3-10. Discrete Graphical Models. Tabea Krause, Lisa Seccia. Ch.13. Graphical Models
+1. May 11th, 2023. MPI-MIS. Room: G3-10. Exercises - Questions- Clarification
 
 ### Fundamentals: 
 From [Sullivant's Book]( https://bookstore.ams.org/view?ProductCode=GSM/194) available in pdf or hard copy at the MPI library.
@@ -46,3 +46,8 @@ From [Sullivant's Book]( https://bookstore.ams.org/view?ProductCode=GSM/194) ava
 - [Complete quadrics: Schubert Calculus for Gaussian Models and Semidefinite Programming](https://arxiv.org/pdf/2011.08791.pdf)
 - [Likelihood equations and scattering amplitudes](https://msp.org/astat/2021/12-2/p04.xhtml)
 - [Marginal Independence Models](https://arxiv.org/abs/2112.10287)
+
+### Aditional References
+- Drton, Sturmfels, Sullivant, "Lectures in Algebraic Statistics"
+- Maathuis, Drton, Lauritzen, Wainwright, ["Handbook of Graphical models"](https://www.taylorfrancis.com/books/edit/10.1201/9780429463976/handbook-graphical-models-mathias-drton-steffen-lauritzen-marloes-maathuis-martin-wainwright)
+- Pachter and Sturmfels ["Algebraic Statistics for Computational Biology"](https://www.cambridge.org/core/books/algebraic-statistics-for-computational-biology/2E5CCE6BB6751EB7423EE3D2BF40EBFF)
