@@ -17,17 +17,19 @@ the semester long program [Algebraic Statistics and Our Changing World](https://
 at IMSI. Participants in this reading group will be set up for an enriched experience in attending any of the aforementioned events.
 ### Format:
 Each session is 90 minutes, split in two 35 minute blocks. Two people give talks
-which they prepare together. We meet at 1:30pm on Thursdays. Starting April 6th
+which they prepare together. We meet at 1:30pm on Thursdays excep on April 20th we meet at 2pm. Starting April 6th
 
 ### Dates:
 1. April 6th, 2023. MPI-MIS. Room: G3-10. Algebra and Statistics Primer.  Karel Devriendt, Javier Sendra - 
  Ch.3 Algebra Primer, Ch.4. Conditional Independence, Ch.5 Statistics Primer
-1. April 13th, 2023. MPI-MIS. Room: G3-10. Exponential Families a.k.a Toric Varieties. Leo Kayser, Alexander Kreiss - 
+1. April 13th, 2023. MPI-MIS. Room: G3-10. Exponential Families a.k.a Toric Varieties. Leoni Kayser, Alexander Kreiss - 
 Ch. 6 Exponential families a.k.a toric varieties
 1. April 20th, 2023. E1 05 (Leibniz-Saal). Maximum Likelihood Geometry. Max Wiesmann, Dmitrii Pavlov - 
-Ch.7 Likelihood Inference, Likelihood geometry, ML degree#
+Ch.7 Likelihood Inference, Likelihood geometry, ML degree. We start at 2pm this day.
 1. May 4th, 2023. MPI-MIS. Room: G3-10. Discrete Graphical Models. Tabea Krause, Lisa Seccia. Ch.13. Graphical Models
-1. May 11th, 2023. MPI-MIS. Room: G3-10. Exercises - Questions- Clarification
+1. May 11th, 2023. MPI-MIS. Room: G3-10. Exercises - Questions- Clarification. The suggested exercises for this session are:
+  Chap 4. 4.1, part 1, 4.7, 4.9, Chap 5. -5.1, 5.2, Ch 6. - 6.2, 6.4. Reading some proofs and presenting them is also useful for instance:
+  The proof of Proposition 4.1.9 about conditional independence is a good exercise on marginal distributions of normal random variables ans Schur complements
 
 ### Fundamentals: 
 From [Sullivant's Book]( https://bookstore.ams.org/view?ProductCode=GSM/194) available in pdf or hard copy at the MPI library.
