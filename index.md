@@ -17,7 +17,7 @@ and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") a
 * The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will meet on May 4th at 1:30pm at MPI-MIS in G3-10. The topic
 is Graphical Models.
 
-* The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Leipzig at 2pm on May 25th. The speaker is
+* The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Leipzig at 1:30pm on May 25th. The speaker is
 [Simon Telen](https://simontelen.webnode.page)
 
 * Our three part [mini symposium Geometric and Algebraic Structures in Quantum Information](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=77689)  at the [SIAM AG'23](https://www.siam.org/conferences/cm/conference/ag23?_ga=2.84031961.1391181692.1683103512-1015601264.1670088792) conference was accepted. Hope to see you there!
