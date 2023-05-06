@@ -2,13 +2,18 @@
 layout: default
 title: Teaching and Mentoring
 ---
-# Current students
-[Maximilian Wiesmann](https://maximilianwiesmann.wordpress.com) since December 2022.
+## Prospective Students
+Are you interested in working on a project under my supervision? There are always projects for BSc, MSc, or PhD theses. Please talk to me if you are interested. Possible topics include
+Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation, Models with Hidden Variables.
+Applied Algebraic Geometry:
+Geometric Modeling, Computer Algebra, Toric Varieties, Virtual Resolutions.
+## Current Students
+[Maximilian Wiesmann][def2] since December 2022.
 
-# Mentoring
+## Mentoring
 During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be
 be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank Rötger.
-# Teaching Experience
+## Teaching Experience
 
 1. Statistical Inference for Master Students - Main Lecturer  Universidade do Porto, Winter Semester 2021 
 1. Ten Days of Tensor Algebra - Main Lecturer- joint with Thomasl Kahle - compact course  Otto-Von-Guericke Universitat Magdeburg,  April 2021 
@@ -34,4 +39,4 @@ be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani
 1. Integral Calculus - Tutorial   Universidad de los Andes, Fall 2007 
 
 
-[def]: https://maximilianwiesmann.wordpress.com
+[def2]: https://maximilianwiesmann.github.io
