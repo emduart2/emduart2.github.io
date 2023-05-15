@@ -2,6 +2,10 @@
 layout: default
 title: Teaching and Mentoring
 ---
+## 15-05-2023
+[Slides.]({{ site.url }}/assets/FundEst-15-05-2023.pdf)
+[Exercicios.]({{ site.url }}/assets/EAF7.pdf)
+[Script.]({{ site.url }}/assets/script11-14-05-2023.R)
 ## Prospective Students
 Are you interested in working on a project under my supervision? There are always projects for BSc, MSc, or PhD theses. Please talk to me if you are interested. Possible topics include
 Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation, Models with Hidden Variables.
