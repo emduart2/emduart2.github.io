@@ -2,8 +2,9 @@
 layout: default
 title: Teaching and Mentoring
 ---
-## 15-05-2023
-[Slides.]({{ site.url }}/assets/FundEst-15-05-2023.pdf)
+## Fundamentos de Estatistica
+[Slides1]({{ site.url }}/assets/FundEst-15-05-2023.pdf)
+[Slides2]({{ site.url }}/assets/19-05-2023-FundamentosDeEstatistica.pdf)
 [Exercicios.]({{ site.url }}/assets/EAF7.pdf)
 [Script.]({{ site.url }}/assets/script11-14-05-2023.R)
 ## Prospective Students
