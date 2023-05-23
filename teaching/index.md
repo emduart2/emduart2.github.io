@@ -3,10 +3,7 @@ layout: default
 title: Teaching and Mentoring
 ---
 ## Fundamentos de Estatistica
-[Slides1]({{ site.url }}/assets/FundEst-15-05-2023.pdf)
-[Slides2]({{ site.url }}/assets/19-05-2023-FundamentosDeEstatistica.pdf)
-[Exercicios.]({{ site.url }}/assets/EAF7.pdf)
-[Script.]({{ site.url }}/assets/script11-14-05-2023.R)
+A informação sob a unidade curricular se encontra no Moodle.
 ## Prospective Students
 Are you interested in working on a project under my supervision? There are always projects for BSc, MSc, or PhD theses. Please talk to me if you are interested. Possible topics include
 Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation, Models with Hidden Variables.
