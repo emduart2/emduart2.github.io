@@ -10,9 +10,6 @@ Starting May 2023 I am an Assistant Professor of Probability and Statistics at t
 the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and I 
 led the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
 Leipzig. My research focuses on solving statistical problems using algebra, geometry and combinatorics.
-[comment]: # Earlier, I was a postdoctoral researcher in the research training group[comment]: # [MathCore](https://www.mathcore.ovgu.de) at Otto-von-Guericke Universität Magdeburg
-[comment]: # and the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html") at Max-Planck-Institute for Mathematics in the Sciences in Leipzig. In May 2017 I obtained my PhD at University of Illinois Urbana - Champaign with
-[comment]: # [Hal Schenck](http://webhome.auburn.edu/~hks0015/)
 
 ## Latest News
 [comment]: # * The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will meet on May 4th at 1:30pm at MPI-MIS in G3-10. The topic is Graphical Models.
