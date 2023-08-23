@@ -9,9 +9,17 @@ Starting May 2023 I am an Assistant Professor of Probability and Statistics at t
 [Departamento de Matemática, Universidade do Porto](https://www.cmup.pt). Previously my research was funded  by
 the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and I 
 led the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
-Leipzig. My research focuses on solving statistical problems using algebra, geometry and combinatorics.
+Leipzig. My research focuses on solving statistical problems using algebraic geometry, commutative
+algebra and combinatorics.
 
 ## Latest News
+* Our recent preprint [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) associates
+algebraic varieties to quantum many-body systems defined by a graph. It is joint work with
+[Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
+
+* I'll be attending the Geometric Science of Information 2023 Conference August 30th to September 1st in St. Malo, France. The session I'm organizing is Computing Geometry and Algebraic Statistics.
+
+## Past News
 [comment]: # * The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will meet on May 4th at 1:30pm at MPI-MIS in G3-10. The topic is Graphical Models.
 
 [comment]: # * The upcoming  [The 3-Way-Interaction Seminar, a seminar in Algebraic Statistics](http://3-way-interaction.de) will take place in Leipzig at 1:30pm on May 25th. The speaker is [Simon Telen](https://simontelen.webnode.page)

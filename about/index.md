@@ -5,7 +5,9 @@ title: Research
 
 # Research
 
-1. [Toric Fiber Products in Geometric Modeling]() Joint with [Maximilian Wiessman](https://maximilianwiesmann.github.io/activities/) and [Ben Hollering](https://sites.google.com/view/benhollering)
+1. [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/pdf/2308.11538.pdf) Joint with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
+
+1. [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754) Joint with [Maximilian Wiesmann](https://maximilianwiesmann.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering)
 
 1.  [Context-specific decomposable models](https://arxiv.org/pdf/2210.11521.pdf) Joint with Yulia Alexander and Julian Vill.
 
