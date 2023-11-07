@@ -19,7 +19,7 @@ algebra and combinatorics.
 algebraic varieties to quantum many-body systems defined by a graph. It is joint work with
 [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
 
-[comment]* I'll be attending the Geometric Science of Information 2023 Conference August 30th to September 1st in St. Malo, France. The session I'm organizing is Computing Geometry and Algebraic Statistics.
+[comment]: I'll be attending the Geometric Science of Information 2023 Conference August 30th to September 1st in St. Malo, France. The session I'm organizing is Computing Geometry and Algebraic Statistics.
 
 [comment]:## Past News
 [comment]: # * The [Reading Group in Algebraic Statistics](https://emduart2.github.io/2023/03/15/ReadingGroupAstat.html) will meet on May 4th at 1:30pm at MPI-MIS in G3-10. The topic is Graphical Models.
