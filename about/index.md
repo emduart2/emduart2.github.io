@@ -4,8 +4,9 @@ title: Research
 ---
 
 # Research
+1. [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) Joint with [D. Tramontano](https://sites.google.com/view/danieletramontano/research), L. Waldman, and [M. Drton](https://www.professoren.tum.de/drton-mathias).
 
-1. [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/pdf/2308.11538.pdf) Joint with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
+1. [Algebraic geometry of guantum graphical models](https://arxiv.org/pdf/2308.11538.pdf) Joint with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
 
 1. [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754) Joint with [Maximilian Wiesmann](https://maximilianwiesmann.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering)
 
