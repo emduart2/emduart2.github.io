@@ -14,7 +14,7 @@ algebra and combinatorics.
 
 ## Latest News
 
-* I am giving a talk  in the Probability and Statistics Seimar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023.
+* I am giving a talk  in the Probability and Statistics Seminarar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023.
 
 * Our recent article [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) will appear in the Special Issue on Causality: Fundamental Limits and Applications of the IEEE Journal on Selected Areas in Information Theory.
 
