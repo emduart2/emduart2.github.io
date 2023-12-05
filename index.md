@@ -12,9 +12,9 @@ led the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mat
 Leipzig. My research focuses on solving statistical problems using algebraic geometry, commutative
 algebra and combinatorics.
 
-## Latest News
+## Recent Developments
 
-* I am giving a talk  in the Probability and Statistics Seminar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023.
+* I am giving a talk  in the Probability and Statistics Seminar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023. [Slides Here.]({{ site.url }}/assets/RepresentationOfCICausalModels-Eliana.pdf)
 
 * Our recent article [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) will appear in the Special Issue on Causality: Fundamental Limits and Applications of the IEEE Journal on Selected Areas in Information Theory.
 
