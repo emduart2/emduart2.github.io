@@ -25,7 +25,7 @@ title: Research
 1. [Implicitization of tensor product surfaces via virtual projective resolutions](https://arxiv.org/abs/1908.02086).
    Joint with [Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/). Duarte, E. and Seceleanu, A., 2020.  Mathematics of Computation, 89(326), pp.3023-3056.
    
-1. Global projections of the soil microbiome. [Carlos Guerra](https://scholar.google.pt/citations?user=0stRyvUAAAAJ&hl=en), [Manuel Delgado Baquerizo](https://scholar.google.com/citations?user=oxRf6bEAAAAJ&hl=en), Eliana Duarte, [Fernando T. Maestre](http://maestrelab.com/en/">Fernando T. Maestre)
+1.  [Global projections of the soil microbiome in the anthropocene](https://onlinelibrary.wiley.com/doi/10.1111/geb.13273). [Carlos Guerra](https://scholar.google.pt/citations?user=0stRyvUAAAAJ&hl=en), [Manuel Delgado Baquerizo](https://scholar.google.com/citations?user=oxRf6bEAAAAJ&hl=en), Eliana Duarte, [Fernando T. Maestre](http://maestrelab.com/en/">Fernando T. Maestre)
 and [Nico Eisenhauer](https://www.idiv.de/en/groups_and_people/employees/details/eshow/eisenhauer_nico.html). Guerra, C.A., Delgado‐Baquerizo, M., Duarte, E., Marigliano, O., Görgen, C., Maestre, F.T. and Eisenhauer, N., 2021. Global Ecology and Biogeography, 30(5), pp.987-999.
 
 1. [Discrete statistical models with rational MLE](https://arxiv.org/abs/1903.06110). Joint with [Orlando Marigliano](https://orlandomarigliano.wordpress.com)
