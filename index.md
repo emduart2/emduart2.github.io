@@ -5,6 +5,7 @@ title: Eliana Duarte
 
 # Eliana Duarte
 <img src="/assets/Eliana.jpg" alt="Eliana" align="left" style="width:350px;height:200px;">
+
 Starting May 2023 I am an Assistant Professor of Probability and Statistics at the
 [Departamento de Matemática, Universidade do Porto](https://www.cmup.pt). Previously my research was funded  by
 the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and I 
