@@ -10,7 +10,9 @@ Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation,
 Applied Algebraic Geometry:
 Geometric Modeling, Computer Algebra, Toric Varieties, Virtual Resolutions.
 ## Current Students
-[Maximilian Wiesmann][def2] since December 2022.
+[Maximilian Wiesmann][def2], PhD, since December 2022.
+João Marcelino, PhD, since June 2024. Co-supervised with João Gouveia.
+Lucas Silva, Master's, since June 2024.
 
 ## Mentoring
 During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be

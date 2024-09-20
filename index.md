@@ -14,12 +14,17 @@ Leipzig. My research focuses on solving statistical problems using algebraic geo
 algebra and combinatorics.
 
 ## Recent Developments
+* I am back from maternity leave. This semester I'm teaching, Algebraic Geometry, Statistical Inference and Linear Algebra and Analytic Geometry.
 
-* I am giving a talk  in the Probability and Statistics Seminar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023. [Slides Here.]({{ site.url }}/assets/RepresentationOfCICausalModels-Eliana.pdf)
+* I'll be giving a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
 
-* Our recent article [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) will appear in the Special Issue on Causality: Fundamental Limits and Applications of the IEEE Journal on Selected Areas in Information Theory.
+* I'm a keynote speaker at the [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/program?authuser=0) conference in Munich.
 
-* Our recent preprint [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) associates
+[comment]:* I am giving a talk  in the Probability and Statistics Seminar of [CEMAT](https://cemat.tecnico.ulisboa.pt/main.php) and [CEAUL](https://ceaul.org/o-centro/) at the Instituto Superior Têcnico, Universidade de Lisboa on November 22, 2023. [Slides Here.]({{ site.url }}/assets/RepresentationOfCICausalModels-Eliana.pdf)
+
+[comment]:* Our recent article [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) will appear in the Special Issue on Causality: Fundamental Limits and Applications of the IEEE Journal on Selected Areas in Information Theory.
+
+[comment]:* Our recent preprint [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) associates
 algebraic varieties to quantum many-body systems defined by a graph. It is joint work with
 [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
 
