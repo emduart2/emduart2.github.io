@@ -24,9 +24,7 @@ algebra and combinatorics.
 
 [comment]:* Our recent article [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) will appear in the Special Issue on Causality: Fundamental Limits and Applications of the IEEE Journal on Selected Areas in Information Theory.
 
-[comment]:* Our recent preprint [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) associates
-algebraic varieties to quantum many-body systems defined by a graph. It is joint work with
-[Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
+[comment]:* Our recent preprint [Algebraic Geometry of Quantum Graphical Models](https://arxiv.org/abs/2308.11538) associates algebraic varieties to quantum many-body systems defined by a graph. It is joint work with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
 
 [comment]:# I'll be attending the Geometric Science of Information 2023 Conference August 30th to September 1st in St. Malo, France. The session I'm organizing is Computing Geometry and Algebraic Statistics.
 
