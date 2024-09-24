@@ -7,10 +7,11 @@ date: 2024-09-20
 ## Homework Problems:
 https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc
 
-# Lectures:
+##   Lectures:
 ---------------------
 ## W1.Lecture 1-19.09 - AFFINE VARIETIES
 Introduction. Bezout's Theorem, affine varieties Ch1.S1,S2.
+
 ---------------------
 ## W2.Lecture 2-24.09 - AFFINE VARIETIES
 ---------------------
