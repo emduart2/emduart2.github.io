@@ -14,6 +14,7 @@ Introduction. Bezout's Theorem, affine varieties Ch1.S1,S2.
 
 ---------------------
 ## W2.Lecture 2-24.09 - AFFINE VARIETIES
+Affine varieties. Ch1.S1.S2.
 ---------------------
 ## W2.Lecture 3-26.09 - AFFINE VARIETIES
 ---------------------
