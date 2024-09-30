@@ -16,12 +16,14 @@ Introduction. Bezout's Theorem, affine varieties Ch1.S1,S2.
 ## W2.Lecture 2-24.09 - AFFINE VARIETIES
 Affine varieties. Ch1.S1.S2.
 Variety of an ideal. Ideal of a set.
+
 ---------------------
 ## W2.Lecture 3-26.09 - AFFINE VARIETIES
 Affine varieties. Ch1.S3.
 Computing with polynomials. 
 [LectureNotes]({{ site.url }}/assets/AlgebraicGeometry/AlgebraicGeometryNotes2.pdf)
 Irreducible topological space.
+
 ---------------------
 ## W3.Lecture 4-01.10 - AFFINE VARITIES
 ---------------------
