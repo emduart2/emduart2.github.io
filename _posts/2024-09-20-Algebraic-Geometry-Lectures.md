@@ -19,7 +19,8 @@ Variety of an ideal. Ideal of a set.
 ---------------------
 ## W2.Lecture 3-26.09 - AFFINE VARIETIES
 Affine varieties. Ch1.S3.
-Computing with polynomials. [Lecture Notes.]({{ site.url }}/assets/AlgebraicGeometryLectures/ComputingWithPolynomials.pdf)
+Computing with polynomials. 
+[LectureNotes]({{ site.url }}/assets/AlgebraicGeometryLectures/ComputingWithPolynomials.pdf))
 Irreducible topological space.
 ---------------------
 ## W3.Lecture 4-01.10 - AFFINE VARITIES
