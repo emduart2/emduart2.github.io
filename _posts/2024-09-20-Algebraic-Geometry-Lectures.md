@@ -11,8 +11,23 @@ date: 2024-09-20
 A small part of the grade is based on note taking for a single class. You choose
 which class you are going to take notes in. You communicate to me this choice either 
 by email or in person, at least one day in advance.
-You submit your notes up to 10 days later.
+You submit your notes up to 10 days later. Here is an overleaf template for the notes:
+[notes.tex](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc))
 
+## End of semester presentations:
+Each of you will choose a class of varieties from the list below and
+do a 30 minute presentation telling the audience about the many 
+geometric and algebraic properties of these varieties.
+To learn about this varieties, first look for them in Joe Harris'
+book "Introduction to Algebraic Geometry", where they appear frequently.
+You may also want to consult other algebraic geometry books or notes.
+- Secant varieties
+- Rational normal curves
+- Veronese varieties
+- Segre varieties
+- Rational normal scrolls
+- Grassmanians
+- Determinantal varieties
 ---------------------
 ## W1.Lecture 1-19.09 
 
