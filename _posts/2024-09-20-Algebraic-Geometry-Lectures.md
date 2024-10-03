@@ -28,9 +28,9 @@ You may also want to consult other algebraic geometry books or notes.
 - Rational normal scrolls
 - Grassmanians
 - Determinantal varieties
+
 ---------------------
 ## W1.Lecture 1-19.09 
-
 Introduction. Bezout's Theorem, affine varieties Ch1.S1,S2.
 
 ---------------------
