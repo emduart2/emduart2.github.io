@@ -16,11 +16,15 @@ You submit your notes up to 10 days later. Here is an overleaf template for the 
 
 ## End of semester presentations:
 Each of you will choose a class of varieties from the list below and
-do a 30 minute presentation telling the audience about the many 
-geometric and algebraic properties of these varieties.
+do a 30 minute presentation to give the audience the definition of your
+chosen variety and their many 
+geometric and algebraic properties.
 To learn about this varieties, first look for them in Joe Harris'
-book "Introduction to Algebraic Geometry", where they appear frequently.
+book "Introduction to Algebraic Geometry" where they appear frequently.
 You may also want to consult other algebraic geometry books or notes.
+Chose your variety by October 24, 2024. Once you chose, tell me about
+it. Two weeks before your presentation, send me an email with an
+outline of the content of your presentation.
 - Secant varieties
 - Rational normal curves
 - Veronese varieties
