@@ -6,6 +6,7 @@ date: 2024-09-20
 
 ## Homework Problems:
 [Homework 1 - 08.10.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
+[Homework 2 - 05.11.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
 
 ## Taking notes:
 A small part of the grade is based on note taking for a single class. You choose
@@ -32,6 +33,8 @@ outline of the content of your presentation.
 - Rational normal scrolls
 - Grassmanians
 - Determinantal varieties
+- Toric Varieties
+- Sets of points in projective space
 
 ---------------------
 ## W1.Lecture 1-19.09 
@@ -59,11 +62,11 @@ Affine varieties. Finish Ch1.S4. Start of morphisms.
 
 ---------------------
 ## W4.Lecture 6-08.10 
-EXERCISES + SOLUTIONS
+Discussion of Homework. Beginning of projective spaces.
 
 ---------------------
 ## W5.Lecture 7-10.10 
-Projective varieties
+Continuation of projective spaces. Beginning of sheaves.
 
 ---------------------
 ## W5.Lecture 8-15.10
