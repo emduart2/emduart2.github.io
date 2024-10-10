@@ -6,6 +6,7 @@ date: 2024-09-20
 
 ## Homework Problems:
 [Homework 1 - 08.10.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
+
 [Homework 2 - 05.11.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
 
 ## Taking notes:
@@ -23,7 +24,7 @@ geometric and algebraic properties.
 To learn about this varieties, first look for them in Joe Harris'
 book "Introduction to Algebraic Geometry" where they appear frequently.
 You may also want to consult other algebraic geometry books or notes.
-Chose your variety by October 24, 2024. Once you chose, tell me about
+Chose your variety by November 12th, 2024. Once you chose, tell me about
 it. Two weeks before your presentation, send me an email with an
 outline of the content of your presentation.
 - Secant varieties
@@ -35,6 +36,7 @@ outline of the content of your presentation.
 - Determinantal varieties
 - Toric Varieties
 - Sets of points in projective space
+- Blow-ups (See Harthsorne p. 28)
 
 ---------------------
 ## W1.Lecture 1-19.09 
