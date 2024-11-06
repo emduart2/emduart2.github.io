@@ -29,18 +29,18 @@ You may also want to consult other algebraic geometry books or notes.
 Chose your variety by November 12th, 2024. Once you chose, tell me about
 it. Two weeks before your presentation, send me an email with an
 outline of the content of your presentation.
-- Secant varieties
-- Rational normal curves
-- Veronese varieties
-- Segre varieties
-- Rational normal scrolls
-- Grassmanians
-- Determinantal varieties
-- Toric Varieties
-- Sets of points in projective space
-- Blow-ups (See Harthsorne p. 28)
 *Grading criteria for your presentation*: Your presentation must include at least
 one definition, one theorem and one example. Do not include proofs in the presentation. Focus on explaining the definition, theorem and example.
+- Secant varieties (Ferdi)
+- Rational normal curves (Martim)
+- Veronese varieties
+- Segre varieties (Eduardo)
+- Rational normal scrolls
+- Grassmanians (Maria Ana)
+- Determinantal varieties (João)
+- Toric Varieties (Pedro)
+- Sets of points in projective space (Lucas)
+- Blow-ups (See Harthsorne p. 28)
 
 ---------------------
 ## W1.Lecture 1-19.09 
