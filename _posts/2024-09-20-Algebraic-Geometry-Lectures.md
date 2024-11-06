@@ -93,6 +93,7 @@ Definition of subvarieties. Local rings, germs of functions at a point.
 
 ---------------------
 ## W7.Lecture 12-05.11 
+Discussion of solutions to homework problems.
 
 ---------------------
 ## W8.Lecture 13-07.11 
