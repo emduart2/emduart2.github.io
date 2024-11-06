@@ -14,7 +14,7 @@ Leipzig. My research focuses on solving statistical problems using algebraic geo
 algebra and combinatorics.
 
 ## Recent Developments
-* I am back from maternity leave. This semester I'm teaching, Algebraic Geometry, Statistical Inference and Linear Algebra and Analytic Geometry.
+* I am back from maternity leave. This semester I'm teaching: Algebraic Geometry, Statistical Inference and Linear Algebra and Analytic Geometry.
 
 * I'll be giving a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
 

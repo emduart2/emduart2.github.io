@@ -9,6 +9,8 @@ date: 2024-09-20
 
 [Homework 2 - 05.11.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
 
+[Homework 3 - 05.12.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
+
 ## Taking notes:
 A small part of the grade is based on note taking for a single class. You choose
 which class you are going to take notes in. You communicate to me this choice either 
@@ -37,6 +39,8 @@ outline of the content of your presentation.
 - Toric Varieties
 - Sets of points in projective space
 - Blow-ups (See Harthsorne p. 28)
+*Grading criteria for your presentation*: Your presentation must include at least
+one definition, one theorem and one example. Do not include proofs in the presentation. Focus on explaining the definition, theorem and example.
 
 ---------------------
 ## W1.Lecture 1-19.09 
@@ -59,7 +63,7 @@ Irreducible topological space.
 Affine varieties. Ch1.S3, Ch1.S4. 
 
 ---------------------
-## W4.Lecture 5-03.10 -
+## W3.Lecture 5-03.10 -
 Affine varieties. Finish Ch1.S4. Start of morphisms.
 
 ---------------------
@@ -67,23 +71,25 @@ Affine varieties. Finish Ch1.S4. Start of morphisms.
 Discussion of Homework. Beginning of projective spaces.
 
 ---------------------
-## W5.Lecture 7-10.10 
+## W4.Lecture 7-10.10 
 Continuation of projective spaces. Beginning of sheaves.
 
 ---------------------
 ## W5.Lecture 8-15.10
-Schemes
+Beginning of Sheaves. Sheaf of functions, presheaves, restriction maps.
 
 ---------------------
 
-## W6.Lecture 9-17.10 
-Schemes
+## W5.Lecture 9-17.10 
+Ringed spaces. Structure sheaf of an affine algebraic set. Definition
+of affine variety, algebraic variety.
 
 ---------------------
-## W6.Lecture 10-22.10 - ELIANA IS TRAVELING. NO CLASS.
+## W6.22.10 - ELIANA IS TRAVELING. NO CLASS.
 
 ---------------------
-## W7.Lecture 11-24.10 
+## W6.Lecture 11-24.10 
+Definition of subvarieties. Local rings, germs of functions at a point.
 
 ---------------------
 ## W7.Lecture 12-05.11 
