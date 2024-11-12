@@ -14,7 +14,10 @@ Leipzig. My research focuses on solving statistical problems using algebraic geo
 algebra and combinatorics.
 
 ## Recent Developments
-* I am back from maternity leave. This semester I'm teaching: Algebraic Geometry, Statistical Inference and Linear Algebra and Analytic Geometry.
+* I am back from maternity leave. This semester I'm teaching: Algebraic Geometry, Statistical Inference and Linear Algebra.
+
+* On Summer 2025, [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu), [Simon Telen](https://simontelen.webnode.page/about-me/) and I are organizing a Summer school [New perspectives of discriminatns and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at the MPI for Mathematics
+in the Sciences in Leipzig, Germany.
 
 * I'll be giving a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
 
