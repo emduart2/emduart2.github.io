@@ -9,7 +9,7 @@ date: 2024-09-20
 
 [Homework 2 - 05.11.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
 
-[Homework 3 - 05.12.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc)
+[Homework 3 - 10.12.2024 :](https://www.overleaf.com/read/vmgvbfgzhfbr#9b0adc) **DUE DATE CHANGED**
 
 ## Taking notes:
 A small part of the grade is based on note taking for a single class. You choose
