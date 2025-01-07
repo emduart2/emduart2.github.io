@@ -97,26 +97,34 @@ Discussion of solutions to homework problems.
 
 ---------------------
 ## W8.Lecture 13-07.11 
-
+More local rings and sheaves of modules.
 ---------------------
 ## W8.Lecture 14-12.11
-
+Image sheaf, kernel sheaf, sheaves of ideals
 ---------------------
 ## W9.Lecture 15-14.11
+Quasi-coherent sheaves, exact sequences, global sections functor. Projective varieties, structure sheaf.
 ---------------------
 ## W9.Lecture 16-19.11
+Sheaves of modules on projective spaces. Sheafification and global sections
 ---------------------
 ## W10.Lecture 17-21.11
+Total coordinate ring of a projective variety. Two important exact sequences. Examples of morphisms between projective spaces.
 ---------------------
 ## W10.Lecture 18-26.11
+Veronese maps, schemes, zero-dimensional schemes.
 ---------------------
 ## W11.Lecture 19-28.11
+Dimesnion, link with topology. Field of rational functions, transcendence degree.
 ---------------------
 ## W11.Lecture 20-03.12
+More on dimension, principal ideal theorem
 ---------------------
 ## W12.Lecture 21-05.12
+Singular points, derivations, deformations, Jacobian criteria.
 ---------------------
 ## W12.Lecture 22-10.12
+solutions to exercises.
 ---------------------
 ## W13.Lecture 23-12.12 STUDENT PRESENTATIONS
 ---------------------
