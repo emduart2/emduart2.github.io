@@ -10,16 +10,17 @@ Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation,
 Applied Algebraic Geometry:
 Geometric Modeling, Computer Algebra, Toric Varieties, Virtual Resolutions.
 ## Current Students
-[Maximilian Wiesmann][def2], PhD, since December 2022.
+[Maximilian Wiesmann][def2], PhD 2025.
 João Marcelino, PhD, since June 2024. Co-supervised with João Gouveia.
 Lucas Silva, Master's, since June 2024.
 
 ## Mentoring
-During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be
-be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank Rötger.
+During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank Rötger.
 ## Teaching Experience
 
-1. Statistical Inference for Master Students - Main Lecturer  Universidade do Porto, Winter Semester 2021 
+1. Algebraic Geometry for Master Students - Main Lecturer, Universidade do Porto, 2024, 2025
+1. Differential Geometry - Main Lecturer, Universidade do Porto, 2024
+1. Statistical Inference for Master Students - Main Lecturer  Universidade do Porto, Winter Semester 2021, 2023, 2024, 2025
 1. Ten Days of Tensor Algebra - Main Lecturer- joint with Thomasl Kahle - compact course  Otto-Von-Guericke Universitat Magdeburg,  April 2021 
 1. Proseminar in Algebra and Geometry - Main Lecturer - Otto-Von-Guericke Universitat Magdeburg,  Summer Semester 2020 
 1. Seven Lectures in Algebraic Statistics - compact course  Max-Planck-Institute for Mathematics in the Sciences, Fall 2019 

@@ -15,14 +15,15 @@ algebra and combinatorics.
 
 ## Recent Developments
 
-* [Lecture Notes 17]({{ site.url }}/assets/Adiscriminants/Lecture-17-Notes-Eliana.pdf) and [Exercises 17]({{ site.url }}/assets/Adiscriminants/Exercise-Lecture-17.pdf)
+* My joint [article](https://arxiv.org/abs/2101.09271) with [Liam Solus](https://people.kth.se/~solus/) was accepted for publication at the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb)
 
-* I am back from maternity leave. This semester I'm teaching: Algebraic Geometry, Statistical Inference and Linear Algebra.
+* This academic year I'm teaching Statistical Inference, Algebraic Geometry and
+Estatística Aplicada.
 
-* On Summer 2025, [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu), [Simon Telen](https://simontelen.webnode.page/about-me/) and I are organizing a Summer school [New perspectives of discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at the MPI for Mathematics
+* On Summer 2025, [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu), [Simon Telen](https://simontelen.webnode.page/about-me/) and I organized a Summer school [New perspectives of discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at the MPI for Mathematics
 in the Sciences in Leipzig, Germany.
 
-* I'll be giving a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
+* I'll be gave a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
 
 * I'm a keynote speaker at the [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/program?authuser=0) conference in Munich.
 

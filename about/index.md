@@ -4,20 +4,28 @@ title: Research
 ---
 
 # Research
-1. [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) Joint with [D. Tramontano](https://sites.google.com/view/danieletramontano/research), L. Waldman, and [M. Drton](https://www.professoren.tum.de/drton-mathias). In IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 569-578, 2023, doi: 10.1109/JSAIT.2023.3328429. 
 
-1. [Algebraic geometry of guantum graphical models](https://arxiv.org/pdf/2308.11538.pdf) Joint with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io).
 
-1. [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754) Joint with [Maximilian Wiesmann](https://maximilianwiesmann.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering). In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. https://doi.org/10.1007/978-3-031-38271-0_49
+
+## Publications
+
+1. [Representation of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Accepted for publication at the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb)
+
+1. [Algebraic geometry of guantum graphical models](https://arxiv.org/pdf/2308.11538.pdf) Joint with [Dmitri Pavlov](https://dmmpavlov.github.io) and [Maximilian Wiesmann](https://maximilianwiesmann.github.io). Advances in Applied Mathematics 170 (2025): 102930.
 
 1.  [Context-specific decomposable models](https://arxiv.org/pdf/2210.11521.pdf) Joint with [Yulia Alexander](https://yuliaalexandr.github.io) and [Julian Vill](https://villjulian.github.io/index.html).
 SIAM Journal on Applied Algebra and Geometry 8.2 (2024): 363-393.
+
+1. [Learning linear Gaussian polytree models with interventions](https://ieeexplore.ieee.org/document/10299801) Joint with [D. Tramontano](https://sites.google.com/view/danieletramontano/research), L. Waldman, and [M. Drton](https://www.professoren.tum.de/drton-mathias). In IEEE Journal on Selected Areas in Information Theory, vol. 4, pp. 569-578, 2023, doi: 10.1109/JSAIT.2023.3328429. 
+
+1. [Toric Fiber Products in Geometric Modeling](https://arxiv.org/abs/2303.08754) Joint with [Maximilian Wiesmann](https://maximilianwiesmann.github.io) and [Ben Hollering](https://sites.google.com/view/benhollering). In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. https://doi.org/10.1007/978-3-031-38271-0_49
+
+
 
 1. [Families of polytopes with rational linear precision in higher dimensions](https://arxiv.org/pdf/2109.08151.pdf) Joint with Isobel Davies, [Irem Portakal](https://www.irem-portakal.de) and Stefana Miruna Sorea. Foundations of Computational Mathematics 23, 2151–2202 (2023). https://doi.org/10.1007/s10208-022-09583-7
 
 1. [A new characterization of discrete decomposable models](https://arxiv.org/abs/2105.05907). Joint with [Liam Solus](https://people.kth.se/~solus/). Proc. Amer. Math. Soc. 151 (2023), 1325-1338. https://doi.org/10.1090/proc/16212
 
-1. [Representation of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
 
 1. [Algebraic geometry of discrete interventional models](https://arxiv.org/abs/2012.03593). Joint with [Liam Solus](https://people.kth.se/~solus/). Submitted.
 
