@@ -7,7 +7,9 @@ title: Research
 
 
 
-## Publications
+## Publications and preprints
+
+1. [Algebraic distance optimization in polyhedral norms](https://arxiv.org/html/2604.19479v1) With. Nidhi Kahinsa, Julia Lindberg, Angélica Torres, Maddie Wenstein.
 
 1. [Representation of Context-Specific Causal Models with Observational and Interventional Data](https://arxiv.org/abs/2101.09271). Joint with [Liam Solus](https://people.kth.se/~solus/). Accepted for publication at the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb)
 
