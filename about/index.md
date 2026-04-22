@@ -57,6 +57,7 @@ and [Bernd Sturmfels](https://math.berkeley.edu/~bernd/). Duarte, E., Marigliano
 
 ## Slides of selected talks
 
+
 [NASO.]({{ site.url }}/assets/DuarteEliana_NASO_20200325.pdf)
 [Rigidity Seminar.]({{ site.url }}/assets/ElianaQuasicrystals.pdf)
 [MathCore May 12.]({{ site.url }}/assets/Eliana-Log-linear-models.pdf)
