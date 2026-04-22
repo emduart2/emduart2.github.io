@@ -6,7 +6,7 @@ title: Eliana Duarte
 # Eliana Duarte
 <img src="/assets/Eliana.jpg" alt="Eliana" align="left" style="width:350px;height:200px;">
 
- Starting May 2023 I am an Assistant Professor of Probability and Statistics at the
+I am an Assistant Professor of Probability and Statistics at the
 [Departamento de Matemática, Universidade do Porto](https://www.cmup.pt). Previously my research was funded  by
 the [Fundação para a Ciência e a Tecnologia](https://www.fct.pt)   and I 
 led the Research Group in Algebraic Statistics at  [Max-Planck-Institute for Mathematics in the Sciences](https://www.mis.mpg.de) in 
@@ -23,7 +23,7 @@ Estatística Aplicada.
 * On Summer 2025, [Serkan Hosten](https://sites.google.com/view/serkanhostensfsu), [Simon Telen](https://simontelen.webnode.page/about-me/) and I organized a Summer school [New perspectives of discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at the MPI for Mathematics
 in the Sciences in Leipzig, Germany.
 
-* I'll be gave a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
+* I gave a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) about the algebra of staged trees at Genoa Oct 21-23, 2024.
 
 * I'm a keynote speaker at the [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/program?authuser=0) conference in Munich.
 
