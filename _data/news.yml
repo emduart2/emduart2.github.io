@@ -1,0 +1,17 @@
+# Newest first. The home page shows the first 6.
+# Each item: a date (any text) and the news, written in Markdown.
+
+- date: 2025/26
+  text: This academic year I'm teaching Statistical Inference, Algebraic Geometry and Estatística Aplicada.
+
+- date: Aug 2025
+  text: My joint [article](https://arxiv.org/abs/2101.09271) with [Liam Solus](https://people.kth.se/~solus/) was accepted for publication in the [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb).
+
+- date: Summer 2025
+  text: With [Serkan Hoşten](https://sites.google.com/view/serkanhostensfsu) and [Simon Telen](https://simontelen.webnode.page/about-me/) I organized the summer school [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS in Leipzig.
+
+- date: 2025
+  text: Keynote speaker at the [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/program?authuser=0) conference in Munich.
+
+- date: Oct 2024
+  text: I gave a [tutorial](https://stagedtrees.github.io/events/trees4cat.html) on the algebra of staged trees in Genoa.

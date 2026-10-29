@@ -1,30 +1,39 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">Research</a></li>
-				<li><a href="/teaching">Teaching</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:eliana.gelvez@fc.up.pt">email</a></li>
-	        		<li><a href="https://github.com/emduart2">github.com/emduart2</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="topbar">
+      <a class="brand" href="/">{{ site.title }}</a>
+      <nav>
+        <ul>
+          {% for item in site.data.menu %}
+            {% assign active = false %}
+            {% if item.url == "/" and page.url == "/" %}{% assign active = true %}
+            {% elsif item.url != "/" and page.url contains item.url %}{% assign active = true %}{% endif %}
+            <li><a href="{{ item.url }}"{% if active %} class="active"{% endif %}>{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <span>© {{ site.time | date: "%Y" }} {{ site.title }} · Universidade do Porto</span>
+      <span>{{ site.email }} · <a href="https://github.com/{{ site.github_username }}">GitHub</a></span>
+    </footer>
+  </div>
+</body>
+</html>

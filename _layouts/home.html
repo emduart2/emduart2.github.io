@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<img class="banner" src="/assets/img/banner.jpg" alt="{{ site.title }} at a blackboard">
+
+<div class="hero">
+  <h1>{{ site.title }}</h1>
+  <p class="role">{{ site.role }}<br>{{ site.affiliation }}</p>
+  {{ content }}
+  <div class="links">
+    {% for link in site.data.profile_links %}<a href="{{ link.url }}">{{ link.title }}</a>{% endfor %}
+    <span class="email">{{ site.email }}</span>
+  </div>
+</div>
+
+<section>
+  <h2>Research interests</h2>
+  <ul class="tags">
+    {% for topic in site.interests %}<li>{{ topic }}</li>{% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>News</h2>
+  <ul class="news">
+    {% for item in site.data.news limit: 6 %}
+      <li><time>{{ item.date }}</time><span>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+    {% endfor %}
+  </ul>
+</section>

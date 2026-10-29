@@ -1,2 +1,18 @@
-name: Eliana Duarte, Phd. Mathematics
+# Site-wide settings. Restart the preview after changing this file.
+title: Eliana Duarte
+description: Eliana Duarte, Assistant Professor of Probability and Statistics at Universidade do Porto. Algebraic statistics, graphical models and nonlinear algebra.
+role: Assistant Professor of Probability and Statistics
+affiliation: Departamento de Matemática, Universidade do Porto
+# Written with [at] so spam robots do not pick it up.
+email: eliana.gelvez [at] fc.up.pt
+github_username: emduart2
+
+interests:
+  - Algebraic statistics
+  - Graphical & causal models
+  - Staged trees
+  - Maximum likelihood estimation
+  - Nonlinear algebra
+
 markdown: kramdown
+exclude: [vendor, Gemfile, Gemfile.lock, _previews, "*.code-workspace"]
