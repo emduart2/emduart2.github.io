@@ -60,6 +60,22 @@ section { margin-bottom: 40px; }
 main ul, main ol { padding-left: 1.2em; }
 main li { margin-bottom: 6px; }
 
+/* Research */
+.lead { font-size: 20px; color: var(--muted); margin: 0 0 32px; }
+.theme { display: grid; grid-template-columns: 1fr; column-gap: 32px; align-items: start; padding: 8px 0 20px; border-top: 1px solid var(--line); }
+.theme:has(> .fig) { grid-template-columns: 1fr 200px; }
+.theme h3 { margin-top: 20px; }
+.theme p { margin: 0 0 10px; }
+.theme .meta { font-style: normal; font-size: 15px; margin-top: 0; }
+.theme .meta b { color: var(--text); }
+.fig { margin: 28px 0 0; color: var(--muted); font-size: 14px; text-align: center; }
+.fig svg { width: 100%; height: auto; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.card { padding: 16px 18px; border: 1px solid var(--line); border-radius: 4px; background: #fffdf9; }
+.card h3 { margin: 0 0 4px; font-size: 18px; }
+.card h3 a { text-decoration: none; }
+.card p { margin: 0; color: var(--muted); font-size: 15px; }
+
 /* Footer */
 footer {
   display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px;
@@ -73,4 +89,6 @@ footer {
   h1 { font-size: 36px; }
   .banner { height: 200px; margin-top: 20px; }
   .news li { grid-template-columns: 1fr; gap: 2px; }
+  .theme:has(> .fig) { grid-template-columns: 1fr; }
+  .fig { max-width: 220px; margin: 8px auto 12px; }
 }
