@@ -5,15 +5,15 @@ title: Come to Porto
 
 # Come to Porto
 
-<p class="lead">I am building a group in algebraic statistics and applied algebraic geometry at the Universidade do Porto, and I am always happy to hear from curious, motivated people. Whether you want to do a PhD, a postdoc, a thesis project or a short research visit, there is a way to come.</p>
+<p class="lead">I am always happy to hear from curious, motivated people who would like to work with me in algebraic statistics and applied algebraic geometry at the Universidade do Porto. Whether you are thinking of a PhD, a postdoc, a Master's thesis or a short research visit, write to me, and together we can find a way for you to come.</p>
 
-## Who I am looking for
+## Who I'd like to hear from
 
 <div class="cards">
-  <div class="card"><h3>PhD students</h3><p>Join a growing group working at the meeting point of algebra, geometry and statistics.</p></div>
+  <div class="card"><h3>PhD students</h3><p>Interested in algebra, geometry and statistics? We can prepare a PhD scholarship application together.</p></div>
   <div class="card"><h3>Postdocs</h3><p>Apply for a fellowship with Porto as your host. I am glad to help you prepare a strong application.</p></div>
-  <div class="card"><h3>BSc and MSc students</h3><p>Thesis projects for students at Porto, and exchange visits for students from elsewhere.</p></div>
-  <div class="card"><h3>Visitors</h3><p>Short research visits and seminar talks. Come and work with us for a week or a month.</p></div>
+  <div class="card"><h3>Master's students</h3><p>Thesis projects for students at Porto, and exchange visits for students from elsewhere.</p></div>
+  <div class="card"><h3>Visitors</h3><p>Short research visits and seminar talks.</p></div>
 </div>
 
 ## Possible topics
@@ -23,13 +23,13 @@ title: Come to Porto
 
 ## How to get here
 
-**PhD positions.** The [Fundação para a Ciência e a Tecnologia (FCT)](https://www.fct.pt) opens a call for doctoral scholarships every year. Contact me well before the deadline so we can shape a project together.
+**PhD positions.** The [Fundação para a Ciência e a Tecnologia (FCT)](https://www.fct.pt) opens a call for doctoral scholarships every year. Contact me well before the deadline so we can shape a project and an application together.
 
 **Postdoctoral fellowships.** [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) let you choose your host institution, and Porto can be it. FCT also funds researcher contracts through its Scientific Employment Stimulus calls.
 
-**Students.** Students at European universities can come for a semester through [Erasmus+](https://erasmus-plus.ec.europa.eu). At Porto, I supervise BSc and MSc theses on the topics above.
+**Students.** Students at European universities can come for a semester through [Erasmus+](https://erasmus-plus.ec.europa.eu). At Porto, I supervise Master's theses on the topics above.
 
-**Visits.** Short visits and seminar talks can usually be arranged. Write to me with your dates and what you would like to work on.
+**Visits.** Write to me with your dates and what you would like to work on, and we can look for a way to make the visit possible.
 
 ## Why Porto
 
@@ -41,4 +41,4 @@ title: Come to Porto
 
 ## Get in touch
 
-Send me an email with your CV and a few lines about what interests you mathematically: **{{ site.email }}**
+Send me an email with your CV and a few lines about what interests you mathematically, and we will look at the options together: **{{ site.email }}**
