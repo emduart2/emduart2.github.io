@@ -27,9 +27,20 @@ title: Come to Porto
 
 **Postdoctoral fellowships.** [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) let you choose your host institution, and Porto can be it. FCT also funds researcher contracts through its Scientific Employment Stimulus calls.
 
-**Students.** Students at European universities can come for a semester through [Erasmus+](https://erasmus-plus.ec.europa.eu). At Porto, I supervise Master's theses on the topics above.
+**Students.** At Porto, I supervise Master's theses on the topics above. Students from other universities can come through Erasmus+ (see below).
 
 **Visits.** Write to me with your dates and what you would like to work on, and we can look for a way to make the visit possible.
+
+## Erasmus+
+
+[Erasmus+](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students) funds stays at the Universidade do Porto for students and staff of partner universities.
+
+- **Master's students** can study in Porto for a semester or a full year, and can work on their thesis with me during the stay.
+- **Traineeships** let students and recent graduates do a research internship of two months or more.
+- **PhD students** can come for a short research stay, from a few days to a month, or for longer periods.
+- **Academic staff** can come for short teaching or training visits.
+
+**How to apply.** Your home university needs an Erasmus+ agreement with the Universidade do Porto. Ask your university's Erasmus office first, and write to me so we can plan the project. FCUP's office for incoming students is at **incoming [at] fc.up.pt**, and its [international cooperation page](https://sigarra.up.pt/fcup/en/p/coopera%C3%A7%C3%A3o) has more information.
 
 ## Why Porto
 
