@@ -1,0 +1,141 @@
+# All papers, newest first.
+# type: peer-reviewed | preprint
+# Links are optional: arxiv (just the number), doi, url (any other link).
+
+- title: Algebraic distance optimization in polyhedral norms
+  authors: Eliana Duarte, Nidhi Kaihnsa, Julia Lindberg, Angélica Torres, Madeleine Weinstein
+  year: 2026
+  type: preprint
+  arxiv: "2604.19479"
+
+- title: Representation of context-specific causal models with observational and interventional data
+  authors: Eliana Duarte, Liam Solus
+  year: 2025
+  type: peer-reviewed
+  venue: Journal of the Royal Statistical Society, Series B 88(2), 567–610
+  arxiv: "2101.09271"
+  doi: 10.1093/jrsssb/qkaf059
+
+- title: Algebraic geometry of quantum graphical models
+  authors: Eliana Duarte, Dmitrii Pavlov, Maximilian Wiesmann
+  year: 2025
+  type: peer-reviewed
+  venue: Advances in Applied Mathematics 170, 102930
+  arxiv: "2308.11538"
+  doi: 10.1016/j.aam.2025.102930
+
+- title: Algebraic geometry of discrete interventional models
+  authors: Eliana Duarte, Liam Solus
+  year: 2025
+  type: peer-reviewed
+  venue: EMS Series of Congress Reports, 413–454
+  arxiv: "2012.03593"
+  doi: 10.4171/ecr/22/14
+
+- title: Decomposable context-specific models
+  authors: Yulia Alexandr, Eliana Duarte, Julian Vill
+  year: 2024
+  type: peer-reviewed
+  venue: SIAM Journal on Applied Algebra and Geometry 8(2), 363–393
+  arxiv: "2210.11521"
+  doi: 10.1137/23m1575111
+
+- title: Learning linear Gaussian polytree models with interventions
+  authors: Daniele Tramontano, L. Waldmann, Mathias Drton, Eliana Duarte
+  year: 2023
+  type: peer-reviewed
+  venue: IEEE Journal on Selected Areas in Information Theory 4, 569–578
+  doi: 10.1109/jsait.2023.3328429
+
+- title: Toric fiber products in geometric modeling
+  authors: Eliana Duarte, Benjamin Hollering, Maximilian Wiesmann
+  year: 2023
+  type: peer-reviewed
+  venue: Geometric Science of Information (GSI 2023), Lecture Notes in Computer Science 14071, 494–503
+  arxiv: "2303.08754"
+  doi: 10.1007/978-3-031-38271-0_49
+
+- title: Families of polytopes with rational linear precision in higher dimensions
+  authors: Isobel Davies, Eliana Duarte, Irem Portakal, Miruna-Ştefana Sorea
+  year: 2023
+  type: peer-reviewed
+  venue: Foundations of Computational Mathematics 23(6), 2151–2202
+  arxiv: "2109.08151"
+  doi: 10.1007/s10208-022-09583-7
+
+- title: A new characterization of discrete decomposable graphical models
+  authors: Eliana Duarte, Liam Solus
+  year: 2023
+  type: peer-reviewed
+  venue: Proceedings of the American Mathematical Society 151(3), 1325–1338
+  arxiv: "2105.05907"
+  doi: 10.1090/proc/16212
+
+- title: Gröbner bases for staged trees
+  authors: Lamprini Ananiadi, Eliana Duarte
+  year: 2021
+  type: peer-reviewed
+  venue: Algebraic Statistics 12(1), 1–20
+  arxiv: "1910.02721"
+  doi: 10.2140/astat.2021.12.1
+
+- title: Global projections of the soil microbiome in the Anthropocene
+  authors: Carlos A. Guerra, Manuel Delgado-Baquerizo, Eliana Duarte, Orlando Marigliano, Christiane Görgen, Fernando T. Maestre, Nico Eisenhauer
+  year: 2021
+  type: peer-reviewed
+  venue: Global Ecology and Biogeography 30(5), 987–999
+  doi: 10.1111/geb.13273
+
+- title: Discrete statistical models with rational maximum likelihood estimator
+  authors: Eliana Duarte, Orlando Marigliano, Bernd Sturmfels
+  year: 2021
+  type: peer-reviewed
+  venue: Bernoulli 27(1), 135–154
+  arxiv: "1903.06110"
+  doi: 10.3150/20-bej1231
+
+- title: Implicitization of tensor product surfaces via virtual projective resolutions
+  authors: Eliana Duarte, Alexandra Seceleanu
+  year: 2020
+  type: peer-reviewed
+  venue: Mathematics of Computation 89(326), 3023–3056
+  arxiv: "1908.02086"
+  doi: 10.1090/mcom/3548
+
+- title: Equations defining probability tree models
+  authors: Eliana Duarte, Christiane Görgen
+  year: 2020
+  type: peer-reviewed
+  venue: Journal of Symbolic Computation 99, 127–146
+  arxiv: "1802.04511"
+  doi: 10.1016/j.jsc.2019.04.001
+
+- title: Implicitization of tensor product surfaces in the presence of a generic set of basepoints
+  authors: Eliana Duarte
+  year: 2017
+  type: peer-reviewed
+  venue: Journal of Algebra and Its Applications 16(10), 1750189
+  arxiv: "1610.03820"
+  doi: 10.1142/s0219498817501894
+
+- title: Polynomial GCDs by syzygies
+  authors: Eliana Duarte, Daniel Lichtblau
+  year: 2016
+  type: peer-reviewed
+  venue: 18th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC), 53–59
+  doi: 10.1109/synasc.2016.021
+
+- title: Tensor product surfaces and linear syzygies
+  authors: Eliana Duarte, Hal Schenck
+  year: 2016
+  type: peer-reviewed
+  venue: Proceedings of the American Mathematical Society 144(1), 65–72
+  arxiv: "1402.6751"
+  doi: 10.1090/proc/12703
+
+- title: Stability of quasicrystal frameworks in 2D and 3D
+  authors: Eliana Duarte, George K. Francis
+  year: 2013
+  type: peer-reviewed
+  venue: Proceedings of the First Conference Transformables, Seville
+  url: http://new.math.uiuc.edu/quasistable/DuarteFrancisSeville1may13.pdf

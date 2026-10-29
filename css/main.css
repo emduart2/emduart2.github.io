@@ -76,6 +76,26 @@ main li { margin-bottom: 6px; }
 .card h3 a { text-decoration: none; }
 .card p { margin: 0; color: var(--muted); font-size: 15px; }
 
+/* Publications */
+.pubfilter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+.pubfilter button {
+  font: inherit; font-size: 15px; padding: 4px 14px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: transparent; color: var(--text);
+}
+.pubfilter button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.year { margin: 32px 0 4px; }
+main ol.pubs { list-style: none; padding: 0; margin: 0; }
+.pubs li { position: relative; padding: 12px 0 12px 48px; margin: 0; border-top: 1px solid var(--line); }
+.pubs .num { position: absolute; left: 0; top: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.pubs li:first-child { border-top: 0; }
+.pubs .t { display: block; font-weight: 600; }
+.pubs .au { display: block; font-size: 16px; }
+.pubs .au b { font-weight: 600; }
+.people a { color: inherit; text-decoration-color: var(--line); }
+.people a:hover { color: var(--accent); text-decoration-color: currentColor; }
+.pubs .v { font-style: italic; color: var(--muted); font-size: 16px; }
+.pubs .pl a { margin-left: 10px; font-size: 15px; }
+
 /* Footer */
 footer {
   display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px;

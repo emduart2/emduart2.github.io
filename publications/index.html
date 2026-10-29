@@ -1,0 +1,56 @@
+---
+layout: default
+title: Publications
+---
+<h1>Publications</h1>
+<p class="lead">Peer-reviewed articles and preprints, newest first.</p>
+
+<div class="pubfilter" role="group" aria-label="Show">
+  <button data-f="peer-reviewed" aria-pressed="true">Peer-reviewed</button>
+  <button data-f="preprint" aria-pressed="false">Preprints</button>
+</div>
+
+{% comment %}
+  Numbering: peer-reviewed papers are numbered 1, 2, ... from the oldest;
+  preprints continue after the last peer-reviewed number.
+{% endcomment %}
+{% assign peer = site.data.publications | where: "type", "peer-reviewed" %}
+{% assign pre = site.data.publications | where: "type", "preprint" %}
+{% assign n_peer = peer.size %}
+{% assign n_peer_left = peer.size %}
+{% assign n_pre_left = n_peer | plus: pre.size %}
+{% assign by_year = site.data.publications | group_by: "year" %}
+{% for group in by_year %}
+<div class="pubyear">
+  <h2 class="year">{{ group.name }}</h2>
+  <ol class="pubs">
+    {% for p in group.items %}
+    {% if p.type == "preprint" %}{% assign num = n_pre_left %}{% assign n_pre_left = n_pre_left | minus: 1 %}
+    {% else %}{% assign num = n_peer_left %}{% assign n_peer_left = n_peer_left | minus: 1 %}{% endif %}
+    <li data-type="{{ p.type }}">
+      <span class="num">[{{ num }}]</span>
+      <span class="t">{{ p.title }}</span>
+      <span class="au">{% include people.html names=p.authors %}</span>
+      <span class="v">{% if p.type == "preprint" %}Preprint{% else %}{{ p.venue }}{% endif %}</span>
+      <span class="pl">
+        {% if p.arxiv %}<a href="https://arxiv.org/abs/{{ p.arxiv }}">arXiv</a>{% endif %}
+        {% if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+        {% if p.url %}<a href="{{ p.url }}">Link</a>{% endif %}
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+</div>
+{% endfor %}
+
+<script>
+  function show(f) {
+    document.querySelectorAll('.pubfilter button').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.f === f); });
+    document.querySelectorAll('.pubs li').forEach(function (li) { li.hidden = li.dataset.type !== f; });
+    document.querySelectorAll('.pubyear').forEach(function (y) { y.hidden = !y.querySelector('li:not([hidden])'); });
+  }
+  document.querySelectorAll('.pubfilter button').forEach(function (b) {
+    b.addEventListener('click', function () { show(b.dataset.f); });
+  });
+  show('peer-reviewed');
+</script>

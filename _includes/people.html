@@ -1,0 +1,14 @@
+{%- comment -%}
+  Prints a comma-separated list of names, linking anyone in _data/coauthors.yml
+  and showing Eliana Duarte in bold. Use: {% include people.html names="A, B, C" %}
+{%- endcomment -%}
+{%- assign names = include.names | split: ", " -%}
+<span class="people">
+{%- for name in names -%}
+  {%- assign url = site.data.coauthors[name] -%}
+  {%- if name == "Eliana Duarte" -%}<b>{{ name }}</b>
+  {%- elsif url -%}<a href="{{ url }}">{{ name }}</a>
+  {%- else -%}{{ name }}{%- endif -%}
+  {%- unless forloop.last -%}, {% endunless -%}
+{%- endfor -%}
+</span>

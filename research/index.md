@@ -13,7 +13,7 @@ title: Research
 
 Staged trees represent statistical models in which some independences hold only in certain contexts. I study their defining equations, when two trees describe the same model, and how to learn them from observational and interventional data.
 
-<p class="meta"><b>With</b> Liam Solus, Christiane Görgen, Lamprini Ananiadi<br>
+<p class="meta"><b>With</b> {% include people.html names="Liam Solus, Christiane Görgen, Lamprini Ananiadi" %}<br>
 <b>Key papers</b> <a href="https://arxiv.org/abs/2101.09271">Representation of context-specific causal models</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747717119300379">Equations defining probability tree models</a> · <a href="https://arxiv.org/abs/1910.02721">Gröbner bases for staged trees</a></p>
 </div>
 <figure class="fig">
@@ -27,7 +27,7 @@ Staged trees represent statistical models in which some independences hold only 
 
 Graphical models encode dependence between random variables with a graph. I study their algebraic structure, from discrete models with interventions to Gaussian polytrees, and recently to quantum many-body systems.
 
-<p class="meta"><b>With</b> Liam Solus, Yulia Alexandr, Julian Vill, Daniele Tramontano, Mathias Drton, Dmitrii Pavlov, Maximilian Wiesmann<br>
+<p class="meta"><b>With</b> {% include people.html names="Liam Solus, Yulia Alexandr, Julian Vill, Daniele Tramontano, Mathias Drton, Dmitrii Pavlov, Maximilian Wiesmann" %}<br>
 <b>Key papers</b> <a href="https://arxiv.org/abs/2012.03593">Algebraic geometry of discrete interventional models</a> · <a href="https://ieeexplore.ieee.org/document/10299801">Learning linear Gaussian polytree models with interventions</a> · <a href="https://arxiv.org/abs/2308.11538">Algebraic geometry of quantum graphical models</a></p>
 </div>
 
@@ -36,7 +36,7 @@ Graphical models encode dependence between random variables with a graph. I stud
 
 Which discrete statistical models have a maximum likelihood estimator given by a rational formula? This question connects statistics with toric geometry and polytopes. I also study related optimization problems, such as finding the closest point to a model in polyhedral norms.
 
-<p class="meta"><b>With</b> Orlando Marigliano, Bernd Sturmfels, Isobel Davies, Irem Portakal, Miruna-Ştefana Sorea, Nidhi Kaihnsa, Julia Lindberg, Angélica Torres, Madeleine Weinstein<br>
+<p class="meta"><b>With</b> {% include people.html names="Orlando Marigliano, Bernd Sturmfels, Isobel Davies, Irem Portakal, Miruna-Ştefana Sorea, Nidhi Kaihnsa, Julia Lindberg, Angélica Torres, Madeleine Weinstein" %}<br>
 <b>Key papers</b> <a href="https://arxiv.org/abs/1903.06110">Discrete statistical models with rational MLE</a> · <a href="https://arxiv.org/abs/2109.08151">Polytopes with rational linear precision</a> · <a href="https://arxiv.org/abs/2604.19479">Algebraic distance optimization in polyhedral norms</a></p>
 </div>
 
@@ -45,7 +45,7 @@ Which discrete statistical models have a maximum likelihood estimator given by a
 
 Curves and surfaces in computer-aided design are given by parametrizations. Finding their implicit equations uses syzygies and free resolutions from commutative algebra.
 
-<p class="meta"><b>With</b> Hal Schenck, Alexandra Seceleanu, Benjamin Hollering, Maximilian Wiesmann<br>
+<p class="meta"><b>With</b> {% include people.html names="Hal Schenck, Alexandra Seceleanu, Benjamin Hollering, Maximilian Wiesmann" %}<br>
 <b>Key papers</b> <a href="https://arxiv.org/abs/1402.6751">Tensor product surfaces and linear syzygies</a> · <a href="https://arxiv.org/abs/1908.02086">Implicitization via virtual projective resolutions</a> · <a href="https://arxiv.org/abs/2303.08754">Toric fiber products in geometric modeling</a></p>
 </div>
 
