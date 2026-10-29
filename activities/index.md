@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Activities
+redirect_from: /blog/
 ---
 
 # Activities

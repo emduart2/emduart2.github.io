@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+redirect_from: /about/
 ---
 
 # Research

@@ -2,6 +2,7 @@
 layout: post
 title: "Poster session MathCore"
 date: 2021-01-12
+redirect_from: /poster/
 ---
 
 [Ali Ardalani]({{ site.url }}/assets/Posters/ardalani.pdf)

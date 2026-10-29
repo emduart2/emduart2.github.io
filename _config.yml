@@ -16,4 +16,5 @@ interests:
   - Nonlinear algebra
 
 markdown: kramdown
+plugins: [jekyll-redirect-from]
 exclude: [vendor, Gemfile, Gemfile.lock, _previews, "*.code-workspace"]
