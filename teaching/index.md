@@ -36,7 +36,8 @@ Os materiais das unidades curriculares estão no Moodle.
 ### Anos anteriores
 
 <ul>
-{% for c in site.data.porto_courses.past %}{% include porto-course.html course=c %}{% endfor %}
+{% for c in site.data.porto_courses.past %}<li><a href="{{ c.ficha }}">{{ c.name }}</a> ({{ c.when }}){% if c.materials %} · <a href="{{ c.materials }}">materiais</a>{% endif %}</li>
+{% endfor %}
 </ul>
 
 ## Invited lectures and past teaching
