@@ -17,4 +17,4 @@ interests:
 
 markdown: kramdown
 plugins: [jekyll-redirect-from]
-exclude: [vendor, Gemfile, Gemfile.lock, _previews, "*.code-workspace"]
+exclude: [vendor, Gemfile, Gemfile.lock, CLAUDE.md, "*.code-workspace"]
