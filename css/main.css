@@ -96,6 +96,19 @@ main ol.pubs { list-style: none; padding: 0; margin: 0; }
 .pubs .v { font-style: italic; color: var(--muted); font-size: 16px; }
 .pubs .pl a { margin-left: 10px; font-size: 15px; }
 
+/* Teaching */
+main ul.courses { list-style: none; padding: 0; }
+.courses li { padding: 8px 0; border-top: 1px solid var(--line); margin: 0; }
+.courses li:first-child { border-top: 0; }
+.courses .meta { display: block; font-size: 15px; margin: 0; }
+.history dt { font-weight: 600; margin-top: 16px; }
+.history dd { margin: 2px 0 0; color: var(--muted); font-size: 16px; }
+.callout { padding: 14px 18px; background: var(--chip); border-left: 3px solid var(--accent); border-radius: 2px; }
+main .cards + .history { margin-top: 8px; }
+.code { font-size: 15px; font-variant-numeric: tabular-nums; color: var(--muted); }
+.earlier { margin-top: 20px; }
+.earlier summary { cursor: pointer; color: var(--accent); }
+
 /* Footer */
 footer {
   display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px;

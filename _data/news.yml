@@ -1,8 +1,11 @@
 # Newest first. The home page shows the first 6.
 # Each item: a date (any text) and the news, written in Markdown.
 
-- date: 2025/26
-  text: This academic year I'm teaching Statistical Inference, Algebraic Geometry and Estatística Aplicada.
+- date: Oct 2026
+  text: I am the new Director of the Licenciatura em Matemática Aplicada (BSc in Applied Mathematics) at Universidade do Porto. Interested in studying or working with us? See [Come to Porto](/porto/).
+
+- date: 2026/27
+  text: This academic year I'm teaching Inferência Estatística, Estatística Aplicada and Geometria Diferencial at FCUP, and Álgebra Linear e Geometria Analítica at FEUP.
 
 - date: Aug 2025
   text: My joint [article](https://arxiv.org/abs/2101.09271) with [Liam Solus](https://people.kth.se/~solus/) was accepted for publication in the [Journal of the Royal Statistical Society, Series B](https://academic.oup.com/jrsssb).

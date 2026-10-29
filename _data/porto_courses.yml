@@ -1,0 +1,104 @@
+# Unidades curriculares na Universidade do Porto (from SIGARRA, Distribuição de Serviço).
+# code: código da UC; ficha: link to the most recent Ficha da UC; years: anos letivos.
+# To add a new year: update "current" and move last year's courses into "past".
+
+current_year: 2026/27
+
+current:
+  - name: Inferência Estatística A
+    code: M4169
+    level: Mestrado
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=583677
+  - name: Inferência Estatística
+    code: M4061
+    level: Mestrado
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=584316
+  - name: Estatística Aplicada
+    code: M2041
+    level: Licenciatura
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=583762
+  - name: Estatística Aplicada B
+    code: M3046
+    level: Licenciatura
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=583774
+  - name: Geometria Diferencial
+    code: M3007
+    level: Licenciatura
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=584267
+  - name: Álgebra Linear e Geometria Analítica
+    code: L.EIC001
+    level: Licenciatura, FEUP
+    ficha: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=586980
+
+past:
+  - name: Geometria Algébrica
+    code: M4084
+    level: Mestrado
+    years: 2024/25, 2025/26
+    materials: /2024/09/20/Algebraic-Geometry-Lectures.html
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=576381
+  - name: Inferência Estatística
+    code: M4061
+    level: Mestrado
+    years: 2021/22, 2023/24, 2024/25, 2025/26
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=570089
+  - name: Inferência Estatística A
+    code: M4169
+    level: Mestrado
+    years: 2025/26
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=576260
+  - name: Inferência Estatística
+    code: M4143
+    level: Mestrado
+    years: 2023/24, 2024/25
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=545946
+  - name: Modelos Não Paramétricos
+    code: M4138
+    level: Mestrado
+    years: 2021/22, 2024/25
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=547566
+  - name: Geometria Diferencial
+    code: M3007
+    level: Licenciatura
+    years: 2024/25
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=546955
+  - name: Estatística Aplicada B
+    code: M3046
+    level: Licenciatura
+    years: 2023/24, 2024/25, 2025/26
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=568096
+  - name: Estatística Aplicada
+    code: M2041
+    level: Licenciatura
+    years: 2024/25, 2025/26
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=568121
+  - name: Estatística Aplicada
+    code: M2024
+    level: Licenciatura
+    years: 2022/23
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=511705
+  - name: Álgebra Linear e Geometria Analítica
+    code: L.EIC001
+    level: Licenciatura, FEUP
+    years: 2025/26
+    ficha: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560085
+  - name: Álgebra Linear e Geometria Analítica
+    code: M1002
+    level: Licenciatura
+    years: 2024/25
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=546489
+  - name: Álgebra Linear e Geometria Analítica I
+    code: M1010
+    level: Licenciatura
+    years: 2023/24
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529085
+  - name: Fundamentos de Estatística
+    code: M1030
+    level: Licenciatura
+    years: 2022/23
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=502744
+  - name: Matemática II
+    code: M1035
+    level: Licenciatura
+    years: 2022/23
+    ficha: https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=502727

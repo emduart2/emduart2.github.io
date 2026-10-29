@@ -1,47 +1,83 @@
 ---
 layout: default
-title: Teaching and Mentoring
+title: Teaching
 ---
-## Fundamentos de Estatistica
-A informação sob a unidade curricular se encontra no Moodle.
-## Prospective Students
-Are you interested in working on a project under my supervision? There are always projects for BSc, MSc, or PhD theses. Please talk to me if you are interested. Possible topics include
-Algebraic Statistis: Graphical Models, Causality, Maximum Likelihood Estimation, Models with Hidden Variables.
-Applied Algebraic Geometry:
-Geometric Modeling, Computer Algebra, Toric Varieties, Virtual Resolutions.
-## Current Students
-[Maximilian Wiesmann][def2], PhD 2025.
-João Marcelino, PhD, since June 2024. Co-supervised with João Gouveia.
-Lucas Silva, Master's, since June 2024.
 
-## Mentoring
-During my time as a postoc in at MathCore in Magdeburg I had the wonderful chance to be a mentor for: Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi and Frank Rötger.
-## Teaching Experience
+# Teaching
 
-1. Algebraic Geometry for Master Students - Main Lecturer, Universidade do Porto, 2024, 2025
-1. Differential Geometry - Main Lecturer, Universidade do Porto, 2024
-1. Statistical Inference for Master Students - Main Lecturer  Universidade do Porto, Winter Semester 2021, 2023, 2024, 2025
-1. Ten Days of Tensor Algebra - Main Lecturer- joint with Thomasl Kahle - compact course  Otto-Von-Guericke Universitat Magdeburg,  April 2021 
-1. Proseminar in Algebra and Geometry - Main Lecturer - Otto-Von-Guericke Universitat Magdeburg,  Summer Semester 2020 
-1. Seven Lectures in Algebraic Statistics - compact course  Max-Planck-Institute for Mathematics in the Sciences, Fall 2019 
-1. Mathematics Foundations - Tutorial -  Otto-Von-Guericke Universitat Magdeburg,  Winter  Semester 2018 
-1. Theorems of the Alternative - Main Lecturer - joint with Thomasl Kahle - compact course  Otto-Von-Guericke Universitat Magdeburg, March 2018 
-1. Theory of Arithmetic for Elementary School Teachers - Lab discussion session -  University of Illlinois Urbana-Champaign, Fall 2016 
-1. Vector Calculus - Tutorial -  University of Illlinois Urbana-Champaign, Fall 2014 
-1. Theory of Arithmetic for Elementary School Teachers - Lab discussion session -  University of Illlinois Urbana-Champaign, Spring 2014 
-1. Integral Calculus - Tutorial with emphasis on active learning -  University of Illlinois Urbana-Champaign, Fall 2013 
-1. Vector Calculus - Tutorial -  University of Illlinois Urbana-Champaign, Spring 2013 
-1. Vector Calculus - Tutorial -  University of Illlinois Urbana-Champaign, Fall 2012 
-1. Differential Caculus - Tutorial -  University of Illlinois Urbana-Champaign, Spring 2012 
-1. Differential Caculus - Tutorial -  University of Illlinois Urbana-Champaign, Fall 2011 
-1. Integral Calculus - Main Lecturer -  Binghamton University, Spring 2011 
-1. Differential Calculus - Main Lecturer -  Binghamton University, Fall 2010 
-1. Linear Algebra - Main Lecturer - Universidad de los Andes, Summer 2010 
-1. Elementary Statistics - Tutorial -  Binghamton University, Spring 2010 
-1. Mathematics in Action - Tutorial -  Binghamton University, Fall 2009 
-1. Linear Algebra - Tutorial -  Universidad de los Andes, Spring 2009 
-1. Differential Calculus - Main Lecturer -  Universidad de los Andes, Spring 2008 
-1. Integral Calculus - Tutorial   Universidad de los Andes, Fall 2007 
+## Students
 
+### Current students
 
-[def2]: https://maximilianwiesmann.github.io
+- **João Marcelino**, PhD, since 2024. Co-supervised with João Gouveia.
+- **Tiago Capelo**, Mestrado em Engenharia Matemática. Thesis: *Maximum likelihood estimation in graphical models*.
+- **Rafaela Pinto**, Mestrado em Estatística Computacional e Ciência de Dados. Thesis: *Causal models in soil ecology*.
+
+### Former students
+
+- **{% include people.html names="Maximilian Wiesmann" %}**, PhD 2025, Universität Leipzig. Co-supervised with {% include people.html names="Bernd Sturmfels" %}. Thesis: [*Nonlinear algebra in likelihood, neurocomputing and quantum physics*](https://maximilianwiesmann.github.io/files/Thesis.pdf).
+
+### Mentoring at MathCore, Magdeburg
+
+- Tobias Boege, Alexandru Iosif, Christopher Borger, Ali Ardalani, Lamprini Ananiadi, Frank Röttger
+
+## Ensino na Universidade do Porto
+
+<p class="callout">Diretora da <b>Licenciatura em Matemática Aplicada</b>.</p>
+
+### {{ site.data.porto_courses.current_year }}
+
+<ul>
+{% for c in site.data.porto_courses.current %}{% include porto-course.html course=c %}{% endfor %}
+</ul>
+
+Os materiais das unidades curriculares estão no Moodle.
+
+### Anos anteriores
+
+<ul>
+{% for c in site.data.porto_courses.past %}{% include porto-course.html course=c %}{% endfor %}
+</ul>
+
+## Invited lectures and past teaching
+
+### Invited lectures
+
+- [Tutorial on staged trees](https://stagedtrees.github.io/events/trees4cat.html), Genoa, 2024
+- [Summer School in Tirana](/2022/07/19/SummerSchoolInTirana.html), 2022
+
+### Otto-von-Guericke-Universität Magdeburg
+
+- Ten Days of Tensor Algebra, compact course with Thomas Kahle, 2021
+- [Proseminar in Algebra and Geometry](/2022/11/24/ProSeminar.html), 2020
+- Mathematical Foundations (tutorial), 2018
+- Theorems of the Alternative, compact course with Thomas Kahle, 2018
+
+### Max Planck Institute for Mathematics in the Sciences
+
+- [Seven Lectures in Algebraic Statistics](/2019/10/15/Seven-Lectures-In-Algebraic-Statistics.html), compact course, 2019
+
+<details class="earlier" markdown="1">
+<summary>Earlier teaching (2007–2016)</summary>
+
+### University of Illinois Urbana-Champaign
+
+- Theory of Arithmetic for Elementary School Teachers (lab sessions), 2014, 2016
+- Vector Calculus (tutorial), 2012–2014
+- Integral Calculus (tutorial, active learning), 2013
+- Differential Calculus (tutorial), 2011–2012
+
+### Binghamton University
+
+- Integral Calculus, 2011
+- Differential Calculus, 2010
+- Elementary Statistics (tutorial), 2010
+- Mathematics in Action (tutorial), 2009
+
+### Universidad de los Andes
+
+- Linear Algebra, 2009–2010
+- Differential Calculus, 2008
+- Integral Calculus (tutorial), 2007
+
+</details>

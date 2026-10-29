@@ -1,0 +1,9 @@
+{%- assign c = include.course -%}
+<li>
+  <b>{{ c.name }}</b>
+  {%- if c.code %} <span class="code">{% if c.ficha %}<a href="{{ c.ficha }}">{{ c.code }}</a>{% else %}{{ c.code }}{% endif %}</span>{% endif -%}
+  {%- if c.level %} · {{ c.level }}{% endif -%}
+  {%- if c.years %} · {{ c.years }}{% endif -%}
+  {%- if c.materials %} · <a href="{{ c.materials }}">materiais</a>{% endif -%}
+  {%- if c.ficha and c.code == nil %} · <a href="{{ c.ficha }}">Ficha da UC</a>{% endif %}
+</li>
