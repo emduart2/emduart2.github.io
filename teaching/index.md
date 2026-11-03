@@ -16,6 +16,7 @@ title: Teaching
 ### Former students
 
 - **{% include people.html names="Maximilian Wiesmann" %}**, PhD 2025, Universität Leipzig. Co-supervised with {% include people.html names="Bernd Sturmfels" %}. Thesis: [*Nonlinear algebra in likelihood, neurocomputing and quantum physics*](https://maximilianwiesmann.github.io/files/Thesis.pdf).
+- **Pedro Jorge**, [Novos Talentos em Matemática](https://gulbenkian.pt/bolsas-lista/novos-talentos/) fellow (Fundação Calouste Gulbenkian), Dec 2025 – Sep 2026. Project: *Generalized iterative proportional scaling for 2D log-linear models with rational MLE*.
 
 ### Mentoring at MathCore, Magdeburg
 
