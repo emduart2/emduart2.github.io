@@ -45,6 +45,7 @@ Os materiais das unidades curriculares estão no Moodle.
 
 ### Invited lectures
 
+- [Computer-assisted Mathematics](https://taboege.de/teaching/uit-lean/) (Lean), UiT Tromsø, 2026: contributed to planning the course and student projects with Tobias Boege. Funded by EUGLOH.
 - [Tutorial on staged trees](https://stagedtrees.github.io/events/trees4cat.html), Genoa, 2024
 - [Summer School in Tirana](/2022/07/19/SummerSchoolInTirana.html), 2022
 

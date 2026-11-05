@@ -1,6 +1,9 @@
 # Newest first. The home page shows the first 6.
 # Each item: a date (any text) and the news, written in Markdown.
 
+- date: Nov 2026
+  text: The pilot of [Computer-assisted Mathematics](https://taboege.de/teaching/uit-lean/), a course on formalizing mathematics in Lean, ran at UiT Tromsø in October. [Tobias Boege](https://taboege.de) gave six excellent lectures and tutorials, and I contributed to planning the course and the student projects. The course was funded by EUGLOH, and we plan to offer it across the EUGLOH alliance.
+
 - date: Oct 2026
   text: I am the new Director of the Licenciatura em Matemática Aplicada (BSc in Applied Mathematics) at Universidade do Porto. Interested in studying or working with us? See [Come to Porto](/porto/).
 

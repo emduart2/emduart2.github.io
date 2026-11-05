@@ -19,7 +19,8 @@ title: Come to Porto
 ## Possible topics
 
 **Algebraic statistics:** graphical models, causality, maximum likelihood estimation, models with hidden variables.<br>
-**Applied algebraic geometry:** geometric modeling, computer algebra, toric varieties, virtual resolutions.
+**Applied algebraic geometry:** geometric modeling, computer algebra, toric varieties, virtual resolutions.<br>
+**Formalization:** formalizing algebraic statistics in Lean and contributing to Mathlib.
 
 ## How to get here
 

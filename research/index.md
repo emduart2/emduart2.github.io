@@ -50,9 +50,17 @@ Curves and surfaces in computer-aided design are given by parametrizations. Find
 <b>Key papers</b> <a href="https://arxiv.org/abs/1402.6751">Tensor product surfaces and linear syzygies</a> · <a href="https://arxiv.org/abs/1908.02086">Implicitization via virtual projective resolutions</a> · <a href="https://arxiv.org/abs/2303.08754">Toric fiber products in geometric modeling</a></p>
 </div>
 
+<div class="theme" markdown="1">
+### Formalization
+
+I aim to formalize my results in algebraic statistics in the Lean proof assistant and to contribute them to Mathlib, Lean's library of mathematics. The first project is a formalization of staged trees.
+
+<p class="meta"><b>Project</b> <a href="https://emduart2.github.io/staged-tree/">Staged trees in Lean</a> · <a href="https://emduart2.github.io/staged-tree/blueprint/">blueprint</a> · <a href="https://emduart2.github.io/staged-tree/docs/">documentation</a> · <a href="https://github.com/emduart2/staged-tree">GitHub</a></p>
+</div>
+
 ## Software
 
 <div class="cards">
-  <div class="card"><h3><a href="https://github.com/emduart2/staged-tree">staged-tree</a></h3><p>A formalization of staged trees in the Lean 4 proof assistant.</p></div>
+  <div class="card"><h3><a href="https://emduart2.github.io/staged-tree/">staged-tree</a></h3><p>A formalization of staged trees in the Lean 4 proof assistant.</p></div>
   <div class="card"><h3><a href="https://github.com/emduart2/DiscreteStatisticalModelsWithRationalMLE">Rational MLE</a></h3><p>Code accompanying <em>Discrete statistical models with rational MLE</em>.</p></div>
 </div>
